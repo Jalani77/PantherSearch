@@ -1,0 +1,16 @@
+{
+  "query": "Pro",
+  "cachedAt": "2026-03-18T21:24:19.994645Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yMzUyMzg1",
+      "firstName": "Jordan",
+      "lastName": "Prokosch",
+      "avgRating": 2.0,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 2,
+      "department": "Anthropology"
+    }
+  ]
+}

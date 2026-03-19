@@ -1,0 +1,46 @@
+{
+  "query": "Mohammad  . Shirazi",
+  "cachedAt": "2026-03-18T21:21:30.916536Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yMjg2Mjcy",
+      "firstName": "Mohammad",
+      "lastName": "Ghaedi",
+      "avgRating": 4.2,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 82,
+      "numRatings": 17,
+      "department": "Political Science"
+    },
+    {
+      "id": "VGVhY2hlci0yNjc0MjYw",
+      "firstName": "Mohammad",
+      "lastName": "Torabi",
+      "avgRating": 4.7,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 92,
+      "numRatings": 13,
+      "department": "Electrical Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0xNTcyNzg2",
+      "firstName": "S. C .",
+      "lastName": "Skalicky",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Not Specified"
+    },
+    {
+      "id": "VGVhY2hlci0xNTQwMjgy",
+      "firstName": "Behrooz",
+      "lastName": "Shirazi",
+      "avgRating": 1.7,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 20,
+      "numRatings": 6,
+      "department": "Computer Science"
+    }
+  ]
+}

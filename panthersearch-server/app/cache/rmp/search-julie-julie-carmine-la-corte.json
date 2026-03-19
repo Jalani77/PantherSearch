@@ -1,0 +1,106 @@
+{
+  "query": "Julie (Julie Carmine)  . La Corte",
+  "cachedAt": "2026-03-18T21:21:29.902360Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yMTk4Mjg5",
+      "firstName": "Julie",
+      "lastName": "Menard",
+      "avgRating": 3.3,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 56,
+      "numRatings": 39,
+      "department": "Geology"
+    },
+    {
+      "id": "VGVhY2hlci0yOTUyMTk=",
+      "firstName": "Julie",
+      "lastName": "Kmec",
+      "avgRating": 4.1,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": 62,
+      "numRatings": 26,
+      "department": "Sociology"
+    },
+    {
+      "id": "VGVhY2hlci0yNTkzNjk0",
+      "firstName": "Julie",
+      "lastName": "staggers",
+      "avgRating": 4.7,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 3,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xNDcxOTI3",
+      "firstName": "Julie",
+      "lastName": "Krivsky",
+      "avgRating": 4.8,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0xMTIyNDI1",
+      "firstName": "Julie",
+      "lastName": "Stanton",
+      "avgRating": 4.1,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 44,
+      "department": "Biological Sciences"
+    },
+    {
+      "id": "VGVhY2hlci0xODY3ODA0",
+      "firstName": "Julie",
+      "lastName": "Bean",
+      "avgRating": 2.6,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 36,
+      "numRatings": 30,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0xMDU3Mjk5",
+      "firstName": "Julie",
+      "lastName": "Neuffer",
+      "avgRating": 4.1,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 29,
+      "department": "General Education"
+    },
+    {
+      "id": "VGVhY2hlci0xMTYwMDY5",
+      "firstName": "Julie",
+      "lastName": "Meloni",
+      "avgRating": 3.9,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 5,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0yNDM2Nzgz",
+      "firstName": "Julie",
+      "lastName": "Padowski",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Environmental Science"
+    },
+    {
+      "id": "VGVhY2hlci0xNTI1NzY5",
+      "firstName": "Julie Ann",
+      "lastName": "Wieck",
+      "avgRating": 2.4,
+      "avgDifficulty": 3.6,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 5,
+      "department": "Music"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "cachedAt": "2026-03-18T21:24:31.946427Z",
+  "professor": {
+    "id": "VGVhY2hlci0yNTgxMzg2",
+    "firstName": "Martin",
+    "lastName": "King",
+    "department": "Music",
+    "avgRating": 4.5,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 100,
+    "numRatings": 2,
+    "tags": [
+      " ",
+      "-",
+      "G",
+      "L",
+      "P",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h",
+      "i",
+      "k",
+      "m",
+      "n",
+      "o",
+      "p",
+      "r",
+      "s",
+      "t",
+      "v",
+      "w",
+      "y"
+    ],
+    "reviews": [
+      {
+        "id": "VGVhY2hlci0yNTgxMzg2-0",
+        "comment": "Dr. King is the reason I attended WSU. He tours around highschools encouraging secondary education. He is personable, he genuinely cared about you and your learning. He is stern when you are underperforming, and he gets results. On the other hand he's not shy about compliments when you excel.",
+        "className": "MUS504",
+        "date": "2025-02-03 01:52:41 +0000 UTC",
+        "grade": "A",
+        "thumbsUpTotal": 0,
+        "thumbsDownTotal": 0,
+        "ratingTags": "Participation matters--Gives good feedback--Lots of homework",
+        "helpfulRating": 5.0,
+        "difficultyRating": 4.0,
+        "attendanceMandatory": "mandatory"
+      },
+      {
+        "id": "VGVhY2hlci0yNTgxMzg2-1",
+        "comment": "Dr. King is a very good horn professor and he really cares about his students. He tailors the lesson to each student so they can accel. He does require a lot but it is not unreasonable.",
+        "className": "MUS244",
+        "date": "2020-07-21 14:55:54 +0000 UTC",
+        "grade": "A",
+        "thumbsUpTotal": 0,
+        "thumbsDownTotal": 0,
+        "ratingTags": "Gives good feedback--Participation matters--Graded by few things",
+        "helpfulRating": 4.0,
+        "difficultyRating": 4.0,
+        "attendanceMandatory": "mandatory"
+      }
+    ]
+  }
+}

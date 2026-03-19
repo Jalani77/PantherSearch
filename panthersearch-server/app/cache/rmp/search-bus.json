@@ -1,0 +1,36 @@
+{
+  "query": "BUS",
+  "cachedAt": "2026-03-18T21:25:09.499375Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yOTQ2NjAz",
+      "firstName": "Anna",
+      "lastName": "Bushy",
+      "avgRating": 5.0,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xNDkzNzYw",
+      "firstName": "Jeremiah",
+      "lastName": "Busch",
+      "avgRating": 3.8,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 4,
+      "department": "Biological Sciences"
+    },
+    {
+      "id": "VGVhY2hlci0xOTEyMTM=",
+      "firstName": "Rick",
+      "lastName": "Busselle",
+      "avgRating": 3.5,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 71,
+      "department": "Communication"
+    }
+  ]
+}

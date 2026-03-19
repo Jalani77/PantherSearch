@@ -1,0 +1,106 @@
+{
+  "query": "Abu C. Thomas",
+  "cachedAt": "2026-03-18T21:21:29.597798Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xMjk4OTY0",
+      "firstName": "C. Richard",
+      "lastName": "King",
+      "avgRating": 3.1,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 7,
+      "department": "Comparative Ethnic Studies"
+    },
+    {
+      "id": "VGVhY2hlci01NDE2ODE=",
+      "firstName": "Thomas",
+      "lastName": "Rotolo",
+      "avgRating": 4.3,
+      "avgDifficulty": 1.4,
+      "wouldTakeAgainPercent": 91,
+      "numRatings": 23,
+      "department": "Sociology"
+    },
+    {
+      "id": "VGVhY2hlci0zMDMzNDg5",
+      "firstName": "Thomas",
+      "lastName": "Siek",
+      "avgRating": 1.1,
+      "avgDifficulty": 4.6,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 52,
+      "department": "Anthropology"
+    },
+    {
+      "id": "VGVhY2hlci0yMjAyOTI1",
+      "firstName": "Michael",
+      "lastName": "Thomas",
+      "avgRating": 3.9,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 69,
+      "numRatings": 13,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0yMDM3NjI5",
+      "firstName": "Thomas",
+      "lastName": "Salsbury",
+      "avgRating": 4.7,
+      "avgDifficulty": 1.3,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 6,
+      "department": "Teaching  Learning"
+    },
+    {
+      "id": "VGVhY2hlci0xMTMzNzg=",
+      "firstName": "Thomas",
+      "lastName": "Preston",
+      "avgRating": 3.6,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": 50,
+      "numRatings": 47,
+      "department": "Political Science"
+    },
+    {
+      "id": "VGVhY2hlci0xODg0OTgx",
+      "firstName": "Thomas",
+      "lastName": "Cameron",
+      "avgRating": 4.4,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 14,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0xODAwNDA4",
+      "firstName": "Thomas",
+      "lastName": "Reed",
+      "avgRating": 5.0,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "Digital Technology & Culture"
+    },
+    {
+      "id": "VGVhY2hlci0yMTI5NDUy",
+      "firstName": "Thomas",
+      "lastName": "Brown",
+      "avgRating": 3.0,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 50,
+      "numRatings": 2,
+      "department": "Fine Arts"
+    },
+    {
+      "id": "VGVhY2hlci0yNTQxMzc2",
+      "firstName": "Thomas",
+      "lastName": "Kokta",
+      "avgRating": 2.9,
+      "avgDifficulty": 4.3,
+      "wouldTakeAgainPercent": 50,
+      "numRatings": 32,
+      "department": "Marketing"
+    }
+  ]
+}

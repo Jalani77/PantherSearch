@@ -1,0 +1,48 @@
+{
+  "cachedAt": "2026-03-18T21:22:01.021616Z",
+  "professor": {
+    "id": "VGVhY2hlci0yOTcwNjM2",
+    "firstName": "Kimberly",
+    "lastName": "Davenport",
+    "department": "Animal Science",
+    "avgRating": 5.0,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 100,
+    "numRatings": 1,
+    "tags": [
+      " ",
+      "-",
+      "A",
+      "C",
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "g",
+      "i",
+      "l",
+      "n",
+      "o",
+      "r",
+      "s",
+      "t",
+      "u"
+    ],
+    "reviews": [
+      {
+        "id": "VGVhY2hlci0yOTcwNjM2-0",
+        "comment": "This was Dr. Davenports first semester teaching so there were some bumps but she is honestly a great teacher. She is very understanding and kind. Lectures are interesting, she always adds relevant new information pertaining to the subject. Exams and weekly quizzes are fair and simple. She is very clear about what material is important to study.",
+        "className": "ANIMSCI330",
+        "date": "2023-12-18 08:02:49 +0000 UTC",
+        "grade": "A+",
+        "thumbsUpTotal": 0,
+        "thumbsDownTotal": 0,
+        "ratingTags": "Clear grading criteria--Caring--Accessible outside class",
+        "helpfulRating": 5.0,
+        "difficultyRating": 2.0,
+        "attendanceMandatory": "non mandatory"
+      }
+    ]
+  }
+}

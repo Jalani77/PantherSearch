@@ -1,0 +1,46 @@
+{
+  "query": "ENG",
+  "cachedAt": "2026-03-18T21:21:51.826529Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xOTU5OTI1",
+      "firstName": "Nicholas",
+      "lastName": "Engdahl",
+      "avgRating": 4.0,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 66,
+      "numRatings": 4,
+      "department": "Civil Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0xNzM4MDcw",
+      "firstName": "Peter",
+      "lastName": "Engels",
+      "avgRating": 3.8,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 2,
+      "department": "Physics & Astronomy"
+    },
+    {
+      "id": "VGVhY2hlci0yMTUxMjc3",
+      "firstName": "Jordan",
+      "lastName": "Engelke",
+      "avgRating": 4.0,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0yOTc1NTM5",
+      "firstName": "Erica",
+      "lastName": "England",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "English"
+    }
+  ]
+}

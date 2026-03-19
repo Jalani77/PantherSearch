@@ -1,0 +1,106 @@
+{
+  "query": "Abdikhadar (Abdi) A. Ali",
+  "cachedAt": "2026-03-19T18:08:25.264030Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yMjI1MTMw",
+      "firstName": "Alison",
+      "lastName": "Boggs",
+      "avgRating": 3.4,
+      "avgDifficulty": 3.9,
+      "wouldTakeAgainPercent": 50,
+      "numRatings": 14,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0xNzIxMTE1",
+      "firstName": "Ali",
+      "lastName": "Mehrizi-Sani",
+      "avgRating": 3.3,
+      "avgDifficulty": 3.6,
+      "wouldTakeAgainPercent": 33,
+      "numRatings": 11,
+      "department": "Electrical Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0xOTgxNjMw",
+      "firstName": "Alice",
+      "lastName": "Squires",
+      "avgRating": 2.7,
+      "avgDifficulty": 4.4,
+      "wouldTakeAgainPercent": 50,
+      "numRatings": 5,
+      "department": "Management"
+    },
+    {
+      "id": "VGVhY2hlci0yMDcxOTc=",
+      "firstName": "Ali",
+      "lastName": "Saberi",
+      "avgRating": 2.1,
+      "avgDifficulty": 4.1,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 12,
+      "department": "Electrical Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0yMDgyMTU3",
+      "firstName": "Ali",
+      "lastName": "Hajbabaie",
+      "avgRating": 3.7,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 3,
+      "department": "Civil  Environ Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0yMTMxMDUw",
+      "firstName": "Ali",
+      "lastName": "Narimannezhad",
+      "avgRating": 1.0,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Mechanical Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0yMDUyNDkz",
+      "firstName": "Ali",
+      "lastName": "Nariman",
+      "avgRating": 2.5,
+      "avgDifficulty": 5.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Mechanical Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0xNzc5MzI1",
+      "firstName": "Alissa",
+      "lastName": "Miller",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "Anthropology"
+    },
+    {
+      "id": "VGVhY2hlci0xODEwMTM3",
+      "firstName": "Ali",
+      "lastName": "Ilhan",
+      "avgRating": 3.3,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 2,
+      "department": "Sociology"
+    },
+    {
+      "id": "VGVhY2hlci0zMDc2NDY1",
+      "firstName": "Alisa",
+      "lastName": "Toy",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Music"
+    }
+  ]
+}

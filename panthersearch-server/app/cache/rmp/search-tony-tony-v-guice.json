@@ -1,0 +1,26 @@
+{
+  "query": "Tony (Tony) V. Guice",
+  "cachedAt": "2026-03-19T18:08:30.379641Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xMTMzNDYx",
+      "firstName": "Tony",
+      "lastName": "Giles",
+      "avgRating": 4.6,
+      "avgDifficulty": 1.8,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "Geology"
+    },
+    {
+      "id": "VGVhY2hlci0yODQ4NjEz",
+      "firstName": "Tony",
+      "lastName": "Brave",
+      "avgRating": 4.7,
+      "avgDifficulty": 1.3,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 3,
+      "department": "Digital Technology & Culture"
+    }
+  ]
+}

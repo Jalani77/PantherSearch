@@ -1,0 +1,106 @@
+{
+  "query": "Andrew  . Pierce",
+  "cachedAt": "2026-03-18T21:26:21.950880Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xNDQxODY=",
+      "firstName": "Andrew",
+      "lastName": "Storfer",
+      "avgRating": 3.3,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 60,
+      "department": "Biology"
+    },
+    {
+      "id": "VGVhY2hlci0yMjUyMjUy",
+      "firstName": "Andrew",
+      "lastName": "Perkins",
+      "avgRating": 4.8,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 4,
+      "department": "Marketing"
+    },
+    {
+      "id": "VGVhY2hlci0yOTUwNTQy",
+      "firstName": "Drew",
+      "lastName": "Moreno",
+      "avgRating": 5.0,
+      "avgDifficulty": 1.3,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 4,
+      "department": "Academic Programs"
+    },
+    {
+      "id": "VGVhY2hlci0yMzc0Mjg4",
+      "firstName": "Andrew",
+      "lastName": "Flint",
+      "avgRating": 4.5,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": 75,
+      "numRatings": 4,
+      "department": "Philosophy"
+    },
+    {
+      "id": "VGVhY2hlci01MDIwMjg=",
+      "firstName": "Andrew",
+      "lastName": "Jorgenson",
+      "avgRating": 4.6,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 8,
+      "department": "Sociology"
+    },
+    {
+      "id": "VGVhY2hlci01NDkzMDU=",
+      "firstName": "Andrew",
+      "lastName": "Duffin",
+      "avgRating": 4.2,
+      "avgDifficulty": 4.8,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 9,
+      "department": "History"
+    },
+    {
+      "id": "VGVhY2hlci0xNjYxOTMz",
+      "firstName": "Andrew",
+      "lastName": "Snider",
+      "avgRating": 5.0,
+      "avgDifficulty": 1.5,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 2,
+      "department": "Spanish"
+    },
+    {
+      "id": "VGVhY2hlci0yNTQyNjQ5",
+      "firstName": "Andrew",
+      "lastName": "Gillreath-Brown",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Anthropology"
+    },
+    {
+      "id": "VGVhY2hlci01OTE3MTk=",
+      "firstName": "Andrew",
+      "lastName": "O'Fallon",
+      "avgRating": 4.8,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 154,
+      "department": "Computer Science"
+    },
+    {
+      "id": "VGVhY2hlci00OTEzOTM=",
+      "firstName": "Andrew",
+      "lastName": "McCubbin",
+      "avgRating": 3.7,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 63,
+      "numRatings": 41,
+      "department": "Biology"
+    }
+  ]
+}

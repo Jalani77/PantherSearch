@@ -1,0 +1,66 @@
+{
+  "query": "Kouok K. Law",
+  "cachedAt": "2026-03-18T21:21:29.894791Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xODE5ODU0",
+      "firstName": "Lawrence",
+      "lastName": "Hatter",
+      "avgRating": 4.8,
+      "avgDifficulty": 2.1,
+      "wouldTakeAgainPercent": 92,
+      "numRatings": 15,
+      "department": "History"
+    },
+    {
+      "id": "VGVhY2hlci0yMjg4Nzk2",
+      "firstName": "Lawrence",
+      "lastName": "Holder",
+      "avgRating": 2.3,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 25,
+      "numRatings": 4,
+      "department": "Computer Science"
+    },
+    {
+      "id": "VGVhY2hlci0xODExOTA0",
+      "firstName": "Adair",
+      "lastName": "Lawrence",
+      "avgRating": 3.7,
+      "avgDifficulty": 1.4,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 5,
+      "department": "Human Development"
+    },
+    {
+      "id": "VGVhY2hlci0yMzIwODMz",
+      "firstName": "Allie",
+      "lastName": "Lawrence",
+      "avgRating": 4.0,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "Management"
+    },
+    {
+      "id": "VGVhY2hlci0xMjA5MTgw",
+      "firstName": "Richard",
+      "lastName": "Law",
+      "avgRating": 3.5,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 15,
+      "department": "General Education"
+    },
+    {
+      "id": "VGVhY2hlci0xMzczOTIw",
+      "firstName": "Lawrence",
+      "lastName": "Pintak",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Communication"
+    }
+  ]
+}

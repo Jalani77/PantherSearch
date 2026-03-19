@@ -1,0 +1,580 @@
+{
+  "professors": {
+    "a-f-borthick": {
+      "cachedAt": "2026-03-19T18:25:18.813866Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:18.813866Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "a-f-borthick"
+      }
+    },
+    "abdikhadar-abdi-a-ali": {
+      "cachedAt": "2026-03-19T18:25:18.825967Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:18.825967Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "abdikhadar-abdi-a-ali"
+      }
+    },
+    "abdullah-i-almoshaigeh": {
+      "cachedAt": "2026-03-19T18:25:18.836447Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:18.835459Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "abdullah-i-almoshaigeh"
+      }
+    },
+    "alison-alison-j-hollingsworth": {
+      "cachedAt": "2026-03-19T18:25:18.842472Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:18.842472Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "alison-alison-j-hollingsworth"
+      }
+    },
+    "amanda-w-beck": {
+      "cachedAt": "2026-03-19T18:25:19.140551Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.140551Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "amanda-w-beck"
+      }
+    },
+    "andrew-pierce": {
+      "cachedAt": "2026-03-19T18:25:19.148603Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.148603Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "andrew-pierce"
+      }
+    },
+    "casey-d-potts": {
+      "cachedAt": "2026-03-19T18:25:19.156201Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.156201Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "casey-d-potts"
+      }
+    },
+    "clarissa-s-stewart": {
+      "cachedAt": "2026-03-19T18:25:19.166774Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.166774Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "clarissa-s-stewart"
+      }
+    },
+    "curtis-e-mullis": {
+      "cachedAt": "2026-03-19T18:25:19.178804Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.178804Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "curtis-e-mullis"
+      }
+    },
+    "danny-lanier": {
+      "cachedAt": "2026-03-19T18:25:19.190802Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.190802Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "danny-lanier"
+      }
+    },
+    "david-l-petrisky": {
+      "cachedAt": "2026-03-19T18:25:19.484296Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.484296Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "david-l-petrisky"
+      }
+    },
+    "debora-d-constable": {
+      "cachedAt": "2026-03-19T18:25:19.498262Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.498262Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "debora-d-constable"
+      }
+    },
+    "debra-y-hall": {
+      "cachedAt": "2026-03-19T18:25:19.507965Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.507965Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "debra-y-hall"
+      }
+    },
+    "ernest-ernest-asare-nkansah": {
+      "cachedAt": "2026-03-19T18:25:19.514970Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.514970Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "ernest-ernest-asare-nkansah"
+      }
+    },
+    "farheen-farheen-siddiqui": {
+      "cachedAt": "2026-03-19T18:25:19.526904Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.526904Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "farheen-farheen-siddiqui"
+      }
+    },
+    "freddie-c-harroway": {
+      "cachedAt": "2026-03-19T18:25:19.534911Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.534911Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "freddie-c-harroway"
+      }
+    },
+    "galen-r-sevcik": {
+      "cachedAt": "2026-03-19T18:25:19.547912Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.547912Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "galen-r-sevcik"
+      }
+    },
+    "glenn-r-kurban": {
+      "cachedAt": "2026-03-19T18:25:19.840861Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.840861Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "glenn-r-kurban"
+      }
+    },
+    "ivo-d-tafkov": {
+      "cachedAt": "2026-03-19T18:25:19.857429Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.857429Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "ivo-d-tafkov"
+      }
+    },
+    "jennifer-a-miller": {
+      "cachedAt": "2026-03-19T18:25:19.867794Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.867794Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "jennifer-a-miller"
+      }
+    },
+    "jeremy-stewart": {
+      "cachedAt": "2026-03-19T18:25:19.880832Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.880832Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "jeremy-stewart"
+      }
+    },
+    "jessica-jessica-mytrohovich": {
+      "cachedAt": "2026-03-19T18:25:19.889361Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.889361Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "jessica-jessica-mytrohovich"
+      }
+    },
+    "jodi-m-henley": {
+      "cachedAt": "2026-03-19T18:25:19.900706Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.900706Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "jodi-m-henley"
+      }
+    },
+    "kelly-b-cranford": {
+      "cachedAt": "2026-03-19T18:25:19.912802Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:19.912802Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "kelly-b-cranford"
+      }
+    },
+    "kimberly-m-johnson": {
+      "cachedAt": "2026-03-19T18:25:20.198901Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.198901Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "kimberly-m-johnson"
+      }
+    },
+    "laura-l-king": {
+      "cachedAt": "2026-03-19T18:25:20.212321Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.212321Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "laura-l-king"
+      }
+    },
+    "linda-professor-mullins-s-mullins": {
+      "cachedAt": "2026-03-19T18:25:20.225497Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.224480Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "linda-professor-mullins-s-mullins"
+      }
+    },
+    "lisa-a-davis": {
+      "cachedAt": "2026-03-19T18:25:20.234476Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.233486Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "lisa-a-davis"
+      }
+    },
+    "peter-o-olugbuyi": {
+      "cachedAt": "2026-03-19T18:25:20.247698Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.247698Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "peter-o-olugbuyi"
+      }
+    },
+    "ray-muhammad": {
+      "cachedAt": "2026-03-19T18:25:20.258998Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.258998Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "ray-muhammad"
+      }
+    },
+    "raymond-raymond-m-stahl": {
+      "cachedAt": "2026-03-19T18:25:20.270403Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.269926Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "raymond-raymond-m-stahl"
+      }
+    },
+    "samson-nyamunda": {
+      "cachedAt": "2026-03-19T18:25:20.532284Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.532284Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "samson-nyamunda"
+      }
+    },
+    "siva-nathan": {
+      "cachedAt": "2026-03-19T18:25:20.551625Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.551625Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "siva-nathan"
+      }
+    },
+    "tony-tony-v-guice": {
+      "cachedAt": "2026-03-19T18:25:20.563625Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.563625Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "tony-tony-v-guice"
+      }
+    },
+    "victor-victor-e-hartman": {
+      "cachedAt": "2026-03-19T18:25:20.846559Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.846559Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "victor-victor-e-hartman"
+      }
+    },
+    "ying-liang": {
+      "cachedAt": "2026-03-19T18:25:20.861497Z",
+      "payload": {
+        "cachedAt": "2026-03-19T18:25:20.861497Z",
+        "source": "RateMyProfessor",
+        "hasRateMyProfessorData": false,
+        "rating": 0.0,
+        "difficulty": 0.0,
+        "wouldTakeAgainPercent": 0,
+        "numRatings": 0,
+        "tags": [],
+        "reviews": [],
+        "ratemyprofessorUrl": "https://www.ratemyprofessors.com",
+        "professorSlug": "ying-liang"
+      }
+    }
+  }
+}

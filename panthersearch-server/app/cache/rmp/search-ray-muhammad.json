@@ -1,0 +1,56 @@
+{
+  "query": "Ray  . Muhammad",
+  "cachedAt": "2026-03-19T18:08:29.791098Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0zMDU5NzE=",
+      "firstName": "Ray",
+      "lastName": "Batina",
+      "avgRating": 3.3,
+      "avgDifficulty": 3.8,
+      "wouldTakeAgainPercent": 77,
+      "numRatings": 30,
+      "department": "Economics"
+    },
+    {
+      "id": "VGVhY2hlci0zNjUxODc=",
+      "firstName": "Ray",
+      "lastName": "Huffaker",
+      "avgRating": 4.9,
+      "avgDifficulty": 3.8,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "Economics"
+    },
+    {
+      "id": "VGVhY2hlci0xOTY1MzM=",
+      "firstName": "Ray",
+      "lastName": "Lee",
+      "avgRating": 4.8,
+      "avgDifficulty": 2.2,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 59,
+      "department": "Biology"
+    },
+    {
+      "id": "VGVhY2hlci0yNzgxMTE0",
+      "firstName": "Ray",
+      "lastName": "Combs",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Entrepreneurship"
+    },
+    {
+      "id": "VGVhY2hlci0xNTcyNzg2",
+      "firstName": "S. C .",
+      "lastName": "Skalicky",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Not Specified"
+    }
+  ]
+}

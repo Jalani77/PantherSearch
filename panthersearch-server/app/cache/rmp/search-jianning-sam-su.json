@@ -1,0 +1,106 @@
+{
+  "query": "Jianning (Sam)  . Su",
+  "cachedAt": "2026-03-18T21:21:29.900298Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xNTcyNzg2",
+      "firstName": "S. C .",
+      "lastName": "Skalicky",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Not Specified"
+    },
+    {
+      "id": "VGVhY2hlci0yODkyOTAx",
+      "firstName": "Subu",
+      "lastName": "Kandaswamy",
+      "avgRating": 2.2,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 29,
+      "numRatings": 54,
+      "department": "Computer Science"
+    },
+    {
+      "id": "VGVhY2hlci0xODUzNTY=",
+      "firstName": "Raymond",
+      "lastName": "Sun",
+      "avgRating": 4.4,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 86,
+      "numRatings": 36,
+      "department": "History"
+    },
+    {
+      "id": "VGVhY2hlci0yNDM5NTg5",
+      "firstName": "Subhanshu",
+      "lastName": "Gupta",
+      "avgRating": 1.1,
+      "avgDifficulty": 4.8,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 14,
+      "department": "Electrical Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0xMjc1NjY5",
+      "firstName": "Matthew",
+      "lastName": "Sutton",
+      "avgRating": 4.3,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 17,
+      "department": "History"
+    },
+    {
+      "id": "VGVhY2hlci0zMzYwNjY=",
+      "firstName": "Sung",
+      "lastName": "Ahn",
+      "avgRating": 2.2,
+      "avgDifficulty": 4.1,
+      "wouldTakeAgainPercent": 4,
+      "numRatings": 66,
+      "department": "Business"
+    },
+    {
+      "id": "VGVhY2hlci05NzI3MjI=",
+      "firstName": "Susan",
+      "lastName": "Gill",
+      "avgRating": 4.3,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 62,
+      "numRatings": 14,
+      "department": "Accounting"
+    },
+    {
+      "id": "VGVhY2hlci04MzMxODI=",
+      "firstName": "Su",
+      "lastName": "Ha",
+      "avgRating": 4.1,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 87,
+      "numRatings": 12,
+      "department": "Chemical Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0yMTcyODg0",
+      "firstName": "Susmita",
+      "lastName": "Bose",
+      "avgRating": 1.4,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 12,
+      "numRatings": 8,
+      "department": "Materials Science  Eng."
+    },
+    {
+      "id": "VGVhY2hlci0xMzY3MTcw",
+      "firstName": "Suzanne",
+      "lastName": "Cazeau",
+      "avgRating": 3.4,
+      "avgDifficulty": 2.2,
+      "wouldTakeAgainPercent": 66,
+      "numRatings": 9,
+      "department": "Mathematics"
+    }
+  ]
+}

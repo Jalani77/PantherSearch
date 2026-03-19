@@ -1,0 +1,20 @@
+{
+  "query": "COMM 1100",
+  "source": "https://www.reddit.com/r/GaState/search.json?q=COMM%201100&restrict_sr=1&sort=relevance&limit=10",
+  "cachedAt": "2026-03-18T18:06:50.043Z",
+  "subreddit": "GaState",
+  "results": [
+    {
+      "id": "1q3ymmx",
+      "title": "Dual Enrollment student Transfering",
+      "url": "https://www.reddit.com/r/GaState/comments/1q3ymmx/dual_enrollment_student_transfering/",
+      "permalink": "https://www.reddit.com/r/GaState/comments/1q3ymmx/dual_enrollment_student_transfering/",
+      "subreddit": "GaState",
+      "score": 0,
+      "createdUtc": 1767553954,
+      "author": "Signal_Fisherman_452",
+      "selftext": "I’m a DE student that did 12 credits of courses at Southern Crescent Fall of 2025, will these courses transfer??? I assume my Med Terms elective probably won’t, but I’m checking to see if the rest will. Here were the courses i’ve taken:\n\nALHS1090: Med Terms/Allied Health Sciences\nENGL 1102\nBIOL 1111\nBIOL 1111L\nCOMM1100: Human Communications\n",
+      "topComment": "(ALHS 1090 -&gt; nothing), (ENGL 1102 -&gt; ENGL 1102), (BIOL 1111 -&gt; BIOL 1103), (BIOL 1111L -&gt; BIOL 1103L), (COMM 1100 -&gt; SCOM 1000)"
+    }
+  ]
+}

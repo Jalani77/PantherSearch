@@ -1,0 +1,106 @@
+{
+  "query": "Jessica (Jessica) Mytrohovich",
+  "cachedAt": "2026-03-18T21:24:31.497345Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yMDI2MjA3",
+      "firstName": "Jessica",
+      "lastName": "McCauley",
+      "avgRating": 4.0,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 2,
+      "department": "Anthropology"
+    },
+    {
+      "id": "VGVhY2hlci0yNzU5NDEz",
+      "firstName": "Jessica",
+      "lastName": "Earle",
+      "avgRating": 1.0,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 2,
+      "department": "Digital Technology & Culture"
+    },
+    {
+      "id": "VGVhY2hlci0yNTIzNDEx",
+      "firstName": "Jessica",
+      "lastName": "Devio",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Anthropology"
+    },
+    {
+      "id": "VGVhY2hlci0xODkxNTEy",
+      "firstName": "Jessica",
+      "lastName": "Kissler",
+      "avgRating": 2.5,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 2,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0xOTE5NzEz",
+      "firstName": "Jessica",
+      "lastName": "Willoughby",
+      "avgRating": 4.6,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 9,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0xOTM0NjY3",
+      "firstName": "Jessica",
+      "lastName": "Higginbotham",
+      "avgRating": 4.6,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0xMjM1MTIw",
+      "firstName": "Jessica",
+      "lastName": "Edwards",
+      "avgRating": 3.8,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 3,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xMTgzMTY3",
+      "firstName": "Jessica",
+      "lastName": "Fitts",
+      "avgRating": 4.6,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0xMjgyODA0",
+      "firstName": "Jessica",
+      "lastName": "McCarthy",
+      "avgRating": 4.5,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 13,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0zMDAyMjc5",
+      "firstName": "Jessica",
+      "lastName": "Murray",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 2,
+      "department": "Hotel & Restaurant Management"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "query": "Siva Nathan",
+  "cachedAt": "2026-03-19T18:08:30.088994Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yOTY3ODI5",
+      "firstName": "Nathaniel",
+      "lastName": "Parks",
+      "avgRating": 4.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0yNjMwNjE5",
+      "firstName": "Nathan",
+      "lastName": "Parsons",
+      "avgRating": 5.0,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 2,
+      "department": "Sociology"
+    },
+    {
+      "id": "VGVhY2hlci0yMzAyNTM3",
+      "firstName": "Nathan",
+      "lastName": "Mikami",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 3,
+      "department": "Political Science"
+    },
+    {
+      "id": "VGVhY2hlci04MzkzNjc=",
+      "firstName": "Nathanael",
+      "lastName": "Whitworth",
+      "avgRating": 2.5,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 37,
+      "numRatings": 17,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xNTY4NTU0",
+      "firstName": "Nathan",
+      "lastName": "Hamlin",
+      "avgRating": 2.3,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 11,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0xMjEyMTM4",
+      "firstName": "Nathan",
+      "lastName": "Nicol",
+      "avgRating": 4.2,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": 75,
+      "numRatings": 55,
+      "department": "Philosophy"
+    },
+    {
+      "id": "VGVhY2hlci0yMDgwNjUx",
+      "firstName": "Nathan",
+      "lastName": "Lindstedt",
+      "avgRating": 1.4,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 3,
+      "department": "Sociology"
+    },
+    {
+      "id": "VGVhY2hlci0xNzA1MjU3",
+      "firstName": "Nathan",
+      "lastName": "Neale",
+      "avgRating": 4.7,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 52,
+      "department": "Management & Operations"
+    },
+    {
+      "id": "VGVhY2hlci0xNjk0OTY0",
+      "firstName": "Nathan",
+      "lastName": "Roberts",
+      "avgRating": 1.8,
+      "avgDifficulty": 4.5,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 2,
+      "department": "History"
+    },
+    {
+      "id": "VGVhY2hlci0xNjMwNTU5",
+      "firstName": "Nathan",
+      "lastName": "Havko",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Biological Sciences"
+    }
+  ]
+}

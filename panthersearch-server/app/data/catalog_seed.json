@@ -1,0 +1,866 @@
+[
+  {
+    "code": "BUSA 3000",
+    "slug": "BUSA3000",
+    "name": "Business Analytics",
+    "department": "Business",
+    "credits": 3,
+    "description": "Introduces quantitative reasoning, spreadsheet modeling, and business decision analysis. Students use descriptive statistics, forecasting, and dashboard techniques to support managerial recommendations.",
+    "instructorIds": [
+      "alicia-webb",
+      "charles-yu"
+    ],
+    "tags": [
+      "Core",
+      "Analytics",
+      "Project Based"
+    ],
+    "baseStudents": 82,
+    "avgGPA": 3.28,
+    "viewCount": 4120
+  },
+  {
+    "code": "BUSA 4800",
+    "slug": "BUSA4800",
+    "name": "Strategic Management",
+    "department": "Business",
+    "credits": 3,
+    "description": "Capstone course examining strategic analysis, industry positioning, and execution. Students integrate knowledge from prior business coursework through cases, simulations, and presentations.",
+    "instructorIds": [
+      "marcus-reynolds",
+      "daniel-owens"
+    ],
+    "tags": [
+      "Capstone",
+      "Writing Intensive",
+      "Team Project"
+    ],
+    "baseStudents": 69,
+    "avgGPA": 3.19,
+    "viewCount": 2752
+  },
+  {
+    "code": "MKTG 3100",
+    "slug": "MKTG3100",
+    "name": "Marketing Principles",
+    "department": "Marketing",
+    "credits": 3,
+    "description": "Survey of modern marketing concepts including segmentation, targeting, pricing, promotion, and channel strategy. Emphasizes how firms create value for customers in digital and physical markets.",
+    "instructorIds": [
+      "simone-brooks"
+    ],
+    "tags": [
+      "Core",
+      "Business",
+      "Case Studies"
+    ],
+    "baseStudents": 95,
+    "avgGPA": 3.34,
+    "viewCount": 2864
+  },
+  {
+    "code": "FI 3300",
+    "slug": "FI3300",
+    "name": "Financial Management",
+    "department": "Finance",
+    "credits": 3,
+    "description": "Explores time value of money, capital budgeting, risk, and financing decisions. Students analyze how financial tools support corporate decision making.",
+    "instructorIds": [
+      "ethan-parker"
+    ],
+    "tags": [
+      "Core",
+      "Quantitative",
+      "Business"
+    ],
+    "baseStudents": 88,
+    "avgGPA": 2.84,
+    "viewCount": 2588
+  },
+  {
+    "code": "ACCT 2101",
+    "slug": "ACCT2101",
+    "name": "Principles of Accounting I",
+    "department": "Accounting",
+    "credits": 3,
+    "description": "Introduces financial accounting concepts, the accounting cycle, and preparation of basic financial statements. Students interpret the impact of business events on reporting outcomes.",
+    "instructorIds": [
+      "hannah-kim"
+    ],
+    "tags": [
+      "Core",
+      "Quantitative"
+    ],
+    "baseStudents": 118,
+    "avgGPA": 2.91,
+    "viewCount": 3042
+  },
+  {
+    "code": "ACCT 2102",
+    "slug": "ACCT2102",
+    "name": "Principles of Accounting II",
+    "department": "Accounting",
+    "credits": 3,
+    "description": "Covers managerial accounting topics such as cost behavior, budgeting, performance evaluation, and decision support. Focuses on accounting information used by internal decision makers.",
+    "instructorIds": [
+      "hannah-kim"
+    ],
+    "tags": [
+      "Core",
+      "Managerial"
+    ],
+    "baseStudents": 101,
+    "avgGPA": 2.86,
+    "viewCount": 2876
+  },
+  {
+    "code": "MGT 3100",
+    "slug": "MGT3100",
+    "name": "Management Principles",
+    "department": "Management",
+    "credits": 3,
+    "description": "Examines planning, organizing, leadership, motivation, and control in organizations. Students apply management frameworks to contemporary workplace scenarios.",
+    "instructorIds": [
+      "daniel-owens"
+    ],
+    "tags": [
+      "Core",
+      "Teamwork"
+    ],
+    "baseStudents": 92,
+    "avgGPA": 3.35,
+    "viewCount": 2244
+  },
+  {
+    "code": "MGT 4200",
+    "slug": "MGT4200",
+    "name": "Strategic Management",
+    "department": "Management",
+    "credits": 3,
+    "description": "Studies competitive positioning, strategic analysis, and implementation in complex organizations. Students synthesize cross-functional knowledge in a senior-level management setting.",
+    "instructorIds": [
+      "marcus-reynolds",
+      "daniel-owens"
+    ],
+    "tags": [
+      "Capstone",
+      "Management"
+    ],
+    "baseStudents": 64,
+    "avgGPA": 3.12,
+    "viewCount": 1938
+  },
+  {
+    "code": "CSC 1301",
+    "slug": "CSC1301",
+    "name": "Introduction to Computer Science",
+    "department": "Computer Science",
+    "credits": 3,
+    "description": "Introduces computer science as a discipline including problem solving, basic programming logic, data representation, and algorithmic thinking. Designed for students exploring computing pathways.",
+    "instructorIds": [
+      "maya-patel"
+    ],
+    "tags": [
+      "Core",
+      "STEM"
+    ],
+    "baseStudents": 134,
+    "avgGPA": 3.21,
+    "viewCount": 4102
+  },
+  {
+    "code": "CSC 2310",
+    "slug": "CSC2310",
+    "name": "Principles of Computer Programming I",
+    "department": "Computer Science",
+    "credits": 4,
+    "description": "Covers foundational programming in a high-level language with emphasis on control flow, functions, arrays, and structured design. Students complete lab and programming assignments weekly.",
+    "instructorIds": [
+      "maya-patel"
+    ],
+    "tags": [
+      "Programming",
+      "Lab"
+    ],
+    "baseStudents": 120,
+    "avgGPA": 3.08,
+    "viewCount": 3985
+  },
+  {
+    "code": "CSC 2720",
+    "slug": "CSC2720",
+    "name": "Data Structures",
+    "department": "Computer Science",
+    "credits": 4,
+    "description": "Studies abstract data types, linked structures, trees, graphs, recursion, and algorithmic analysis. Programming projects emphasize efficiency, correctness, and implementation tradeoffs.",
+    "instructorIds": [
+      "victor-alvarez"
+    ],
+    "tags": [
+      "Programming",
+      "Algorithms",
+      "Lab"
+    ],
+    "baseStudents": 84,
+    "avgGPA": 2.67,
+    "viewCount": 3921
+  },
+  {
+    "code": "CSC 4520",
+    "slug": "CSC4520",
+    "name": "Design & Analysis of Algorithms",
+    "department": "Computer Science",
+    "credits": 3,
+    "description": "Advanced study of algorithmic paradigms, complexity analysis, greedy methods, dynamic programming, and graph algorithms. Students evaluate correctness and performance rigorously.",
+    "instructorIds": [
+      "victor-alvarez",
+      "rachel-cho"
+    ],
+    "tags": [
+      "Theory",
+      "Upper Division"
+    ],
+    "baseStudents": 52,
+    "avgGPA": 2.55,
+    "viewCount": 3176
+  },
+  {
+    "code": "MATH 1111",
+    "slug": "MATH1111",
+    "name": "College Algebra",
+    "department": "Mathematics",
+    "credits": 3,
+    "description": "Reviews functions, equations, inequalities, exponential models, and graph interpretation. Emphasizes algebraic fluency for later quantitative coursework.",
+    "instructorIds": [
+      "tara-simmons"
+    ],
+    "tags": [
+      "Core",
+      "Math"
+    ],
+    "baseStudents": 156,
+    "avgGPA": 3.18,
+    "viewCount": 2790
+  },
+  {
+    "code": "MATH 2211",
+    "slug": "MATH2211",
+    "name": "Calculus I",
+    "department": "Mathematics",
+    "credits": 4,
+    "description": "Introduces limits, continuity, derivatives, and applications of differentiation. Students develop symbolic, graphical, and numerical perspectives on rate of change.",
+    "instructorIds": [
+      "devon-chase",
+      "nathan-scott"
+    ],
+    "tags": [
+      "Core",
+      "STEM"
+    ],
+    "baseStudents": 142,
+    "avgGPA": 2.74,
+    "viewCount": 3662
+  },
+  {
+    "code": "MATH 2212",
+    "slug": "MATH2212",
+    "name": "Calculus II",
+    "department": "Mathematics",
+    "credits": 4,
+    "description": "Continues the calculus sequence through integration techniques, sequences, series, and parametric equations. Focuses on theory-supported problem solving and persistence.",
+    "instructorIds": [
+      "devon-chase"
+    ],
+    "tags": [
+      "STEM",
+      "Sequential"
+    ],
+    "baseStudents": 118,
+    "avgGPA": 2.58,
+    "viewCount": 3510
+  },
+  {
+    "code": "MATH 2420",
+    "slug": "MATH2420",
+    "name": "Discrete Mathematics",
+    "department": "Mathematics",
+    "credits": 3,
+    "description": "Covers logic, sets, combinatorics, recursion, proof methods, and graph theory. Designed to support computer science and mathematically rigorous reasoning.",
+    "instructorIds": [
+      "rachel-cho"
+    ],
+    "tags": [
+      "Theory",
+      "STEM"
+    ],
+    "baseStudents": 78,
+    "avgGPA": 2.81,
+    "viewCount": 2487
+  },
+  {
+    "code": "ENGL 1101",
+    "slug": "ENGL1101",
+    "name": "English Composition I",
+    "department": "English",
+    "credits": 3,
+    "description": "Develops college-level writing through rhetorical awareness, drafting, revision, and source-supported argument. Students write in response to contemporary issues and academic prompts.",
+    "instructorIds": [
+      "naomi-hughes"
+    ],
+    "tags": [
+      "Core",
+      "Writing Intensive"
+    ],
+    "baseStudents": 178,
+    "avgGPA": 3.47,
+    "viewCount": 2998
+  },
+  {
+    "code": "ENGL 1102",
+    "slug": "ENGL1102",
+    "name": "English Composition II",
+    "department": "English",
+    "credits": 3,
+    "description": "Builds on first-year composition through research-based writing, rhetorical analysis, and source integration. Students complete sustained academic inquiry projects.",
+    "instructorIds": [
+      "naomi-hughes",
+      "amelia-bryant"
+    ],
+    "tags": [
+      "Core",
+      "Writing Intensive"
+    ],
+    "baseStudents": 162,
+    "avgGPA": 3.42,
+    "viewCount": 2821
+  },
+  {
+    "code": "PSYC 1101",
+    "slug": "PSYC1101",
+    "name": "Introductory Psychology",
+    "department": "Psychology",
+    "credits": 3,
+    "description": "Survey of the major concepts, methods, and findings in psychology. Topics include cognition, behavior, development, personality, and mental processes.",
+    "instructorIds": [
+      "miles-bennett"
+    ],
+    "tags": [
+      "Core",
+      "Social Science"
+    ],
+    "baseStudents": 188,
+    "avgGPA": 3.39,
+    "viewCount": 3229
+  },
+  {
+    "code": "BIOL 1107",
+    "slug": "BIOL1107",
+    "name": "Principles of Biology I",
+    "department": "Biology",
+    "credits": 4,
+    "description": "Introduces cell structure, genetics, evolution, and scientific inquiry in biological systems. Includes laboratory experiences supporting the lecture sequence.",
+    "instructorIds": [
+      "bianca-morales",
+      "paige-nelson"
+    ],
+    "tags": [
+      "Core",
+      "Lab",
+      "STEM"
+    ],
+    "baseStudents": 148,
+    "avgGPA": 2.93,
+    "viewCount": 3086
+  },
+  {
+    "code": "BIOL 1108",
+    "slug": "BIOL1108",
+    "name": "Principles of Biology II",
+    "department": "Biology",
+    "credits": 4,
+    "description": "Continues biology through organismal structure, ecology, and biological diversity. Laboratory exercises reinforce interpretation of empirical evidence.",
+    "instructorIds": [
+      "bianca-morales",
+      "sarah-douglas"
+    ],
+    "tags": [
+      "Core",
+      "Lab",
+      "STEM"
+    ],
+    "baseStudents": 136,
+    "avgGPA": 2.89,
+    "viewCount": 2719
+  },
+  {
+    "code": "CHEM 1211",
+    "slug": "CHEM1211",
+    "name": "Chemistry I",
+    "department": "Chemistry",
+    "credits": 4,
+    "description": "Studies atomic structure, stoichiometry, bonding, thermochemistry, and chemical reactions. Students complete quantitative laboratory work alongside the lecture.",
+    "instructorIds": [
+      "owen-fraser",
+      "isaac-keller"
+    ],
+    "tags": [
+      "Core",
+      "Lab",
+      "STEM"
+    ],
+    "baseStudents": 144,
+    "avgGPA": 2.61,
+    "viewCount": 2954
+  },
+  {
+    "code": "HIST 2110",
+    "slug": "HIST2110",
+    "name": "Survey of United States History I",
+    "department": "History",
+    "credits": 3,
+    "description": "Examines United States history from early settlement through Reconstruction. Students engage with major political, social, and economic transformations.",
+    "instructorIds": [
+      "leah-hamilton",
+      "colin-maddox"
+    ],
+    "tags": [
+      "Core",
+      "Humanities"
+    ],
+    "baseStudents": 124,
+    "avgGPA": 3.33,
+    "viewCount": 1968
+  },
+  {
+    "code": "POLS 1101",
+    "slug": "POLS1101",
+    "name": "American Government",
+    "department": "Political Science",
+    "credits": 3,
+    "description": "Introduces the institutions, processes, and constitutional foundations of the U.S. government. Emphasizes civic literacy and contemporary policy debates.",
+    "instructorIds": [
+      "jonah-price",
+      "fatima-diallo"
+    ],
+    "tags": [
+      "Core",
+      "Civic Literacy"
+    ],
+    "baseStudents": 170,
+    "avgGPA": 3.31,
+    "viewCount": 2431
+  },
+  {
+    "code": "ECON 2106",
+    "slug": "ECON2106",
+    "name": "Principles of Microeconomics",
+    "department": "Economics",
+    "credits": 3,
+    "description": "Introduces supply and demand, consumer choice, market structures, and efficiency. Students analyze how incentives shape behavior in markets and institutions.",
+    "instructorIds": [
+      "sophia-shah",
+      "lucas-green"
+    ],
+    "tags": [
+      "Core",
+      "Quantitative"
+    ],
+    "baseStudents": 132,
+    "avgGPA": 2.98,
+    "viewCount": 2679
+  },
+  {
+    "code": "ECON 2105",
+    "slug": "ECON2105",
+    "name": "Principles of Macroeconomics",
+    "department": "Economics",
+    "credits": 3,
+    "description": "Explores inflation, unemployment, growth, fiscal policy, and monetary systems. Students interpret macroeconomic indicators and model-based reasoning.",
+    "instructorIds": [
+      "ethan-parker",
+      "sophia-shah"
+    ],
+    "tags": [
+      "Core",
+      "Quantitative"
+    ],
+    "baseStudents": 129,
+    "avgGPA": 3.04,
+    "viewCount": 2510
+  },
+  {
+    "code": "COMM 1100",
+    "slug": "COMM1100",
+    "name": "Public Speaking",
+    "department": "Communication",
+    "credits": 3,
+    "description": "Develops confidence and competence in oral communication through speech preparation, delivery, and audience adaptation. Includes multiple speaking performances.",
+    "instructorIds": [
+      "adrian-foster",
+      "ella-ramirez"
+    ],
+    "tags": [
+      "Core",
+      "Performance"
+    ],
+    "baseStudents": 146,
+    "avgGPA": 3.61,
+    "viewCount": 2388
+  },
+  {
+    "code": "SOC 1101",
+    "slug": "SOC1101",
+    "name": "Introduction to Sociology",
+    "department": "Sociology",
+    "credits": 3,
+    "description": "Introduces sociological concepts, methods, and perspectives for understanding institutions and social change. Students examine inequality, groups, and culture.",
+    "instructorIds": [
+      "nina-banaji",
+      "ryan-mitchell"
+    ],
+    "tags": [
+      "Core",
+      "Social Science"
+    ],
+    "baseStudents": 154,
+    "avgGPA": 3.46,
+    "viewCount": 2010
+  },
+  {
+    "code": "PHIL 2010",
+    "slug": "PHIL2010",
+    "name": "Introduction to Philosophy",
+    "department": "Philosophy",
+    "credits": 3,
+    "description": "Survey of major philosophical questions in knowledge, reality, ethics, and human reason. Students practice argument analysis and concise analytical writing.",
+    "instructorIds": [
+      "caleb-ortiz",
+      "olivia-morgan"
+    ],
+    "tags": [
+      "Core",
+      "Humanities"
+    ],
+    "baseStudents": 94,
+    "avgGPA": 3.36,
+    "viewCount": 1678
+  },
+  {
+    "code": "STAT 2670",
+    "slug": "STAT2670",
+    "name": "Elementary Statistics",
+    "department": "Statistics",
+    "credits": 3,
+    "description": "Introduces descriptive statistics, probability, estimation, hypothesis testing, and regression. Students apply statistical reasoning to business and social science problems.",
+    "instructorIds": [
+      "tara-simmons",
+      "charles-yu",
+      "alicia-webb"
+    ],
+    "tags": [
+      "Core",
+      "Quantitative"
+    ],
+    "baseStudents": 164,
+    "avgGPA": 3.17,
+    "viewCount": 2743
+  },
+  {
+    "code": "CSC 1302",
+    "slug": "CSC1302",
+    "name": "Principles of Computer Programming II",
+    "department": "Computer Science",
+    "credits": 4,
+    "description": "Extends introductory programming through object-oriented design, recursion, files, data structures, and testing. Programming assignments emphasize reusable code and debugging skill.",
+    "instructorIds": [
+      "jasmine-carter",
+      "grace-lee"
+    ],
+    "tags": [
+      "Programming",
+      "Lab"
+    ],
+    "baseStudents": 98,
+    "avgGPA": 2.96,
+    "viewCount": 3328
+  },
+  {
+    "code": "CSC 3210",
+    "slug": "CSC3210",
+    "name": "Computer Organization & Programming",
+    "department": "Computer Science",
+    "credits": 4,
+    "description": "Studies low-level programming, memory, machine representation, and system architecture concepts. Students bridge high-level programming with machine-level behavior.",
+    "instructorIds": [
+      "jasmine-carter",
+      "quentin-hale"
+    ],
+    "tags": [
+      "Systems",
+      "Programming"
+    ],
+    "baseStudents": 72,
+    "avgGPA": 2.72,
+    "viewCount": 2240
+  },
+  {
+    "code": "CSC 3320",
+    "slug": "CSC3320",
+    "name": "System-Level Programming",
+    "department": "Computer Science",
+    "credits": 4,
+    "description": "Examines processes, threads, memory management, file systems, and systems programming interfaces. Projects develop practical skill in debugging complex software behavior.",
+    "instructorIds": [
+      "quentin-hale",
+      "grace-lee"
+    ],
+    "tags": [
+      "Systems",
+      "Project Based"
+    ],
+    "baseStudents": 66,
+    "avgGPA": 2.69,
+    "viewCount": 2394
+  },
+  {
+    "code": "MATH 1113",
+    "slug": "MATH1113",
+    "name": "Precalculus",
+    "department": "Mathematics",
+    "credits": 3,
+    "description": "Prepares students for calculus through functions, trigonometry, and analytic reasoning. Emphasizes symbolic fluency and interpretation of multiple representations.",
+    "instructorIds": [
+      "nathan-scott"
+    ],
+    "tags": [
+      "Core",
+      "Math"
+    ],
+    "baseStudents": 138,
+    "avgGPA": 2.94,
+    "viewCount": 2108
+  },
+  {
+    "code": "BIOL 2107",
+    "slug": "BIOL2107",
+    "name": "Human Anatomy and Physiology I",
+    "department": "Biology",
+    "credits": 4,
+    "description": "Introduces structure and function of the human body with emphasis on homeostasis and organ systems. Includes laboratory observations and applied biological reasoning.",
+    "instructorIds": [
+      "paige-nelson",
+      "sarah-douglas"
+    ],
+    "tags": [
+      "Lab",
+      "Pre-Health"
+    ],
+    "baseStudents": 104,
+    "avgGPA": 2.77,
+    "viewCount": 2860
+  },
+  {
+    "code": "CHEM 1212",
+    "slug": "CHEM1212",
+    "name": "Chemistry II",
+    "department": "Chemistry",
+    "credits": 4,
+    "description": "Continues general chemistry through kinetics, equilibrium, acids and bases, thermodynamics, and electrochemistry. Lecture and lab work reinforce quantitative reasoning.",
+    "instructorIds": [
+      "owen-fraser",
+      "isaac-keller"
+    ],
+    "tags": [
+      "Lab",
+      "Sequential",
+      "STEM"
+    ],
+    "baseStudents": 122,
+    "avgGPA": 2.57,
+    "viewCount": 2418
+  },
+  {
+    "code": "HIST 2111",
+    "slug": "HIST2111",
+    "name": "Survey of United States History II",
+    "department": "History",
+    "credits": 3,
+    "description": "Examines United States history from Reconstruction to the present. Topics include industrialization, reform, conflict, and modern social transformation.",
+    "instructorIds": [
+      "leah-hamilton"
+    ],
+    "tags": [
+      "Core",
+      "Humanities"
+    ],
+    "baseStudents": 120,
+    "avgGPA": 3.29,
+    "viewCount": 1755
+  },
+  {
+    "code": "HIST 1111",
+    "slug": "HIST1111",
+    "name": "World History to 1500",
+    "department": "History",
+    "credits": 3,
+    "description": "Survey of world civilizations through approximately 1500 with attention to exchange, empire, and cultural development. Students compare historical experiences across regions.",
+    "instructorIds": [
+      "colin-maddox"
+    ],
+    "tags": [
+      "Core",
+      "Humanities"
+    ],
+    "baseStudents": 112,
+    "avgGPA": 3.23,
+    "viewCount": 1492
+  },
+  {
+    "code": "POLS 2401",
+    "slug": "POLS2401",
+    "name": "Global Issues",
+    "department": "Political Science",
+    "credits": 3,
+    "description": "Introduces major global challenges including governance, development, conflict, and international cooperation. Students analyze cross-border issues through comparative frameworks.",
+    "instructorIds": [
+      "jonah-price",
+      "fatima-diallo"
+    ],
+    "tags": [
+      "Global",
+      "Social Science"
+    ],
+    "baseStudents": 98,
+    "avgGPA": 3.37,
+    "viewCount": 1566
+  },
+  {
+    "code": "ECON 3300",
+    "slug": "ECON3300",
+    "name": "Intermediate Microeconomics",
+    "department": "Economics",
+    "credits": 3,
+    "description": "Builds formal models of consumer choice, production, market equilibrium, and welfare analysis. Students solve analytical problems and interpret model assumptions closely.",
+    "instructorIds": [
+      "lucas-green"
+    ],
+    "tags": [
+      "Upper Division",
+      "Quantitative"
+    ],
+    "baseStudents": 74,
+    "avgGPA": 2.73,
+    "viewCount": 1448
+  },
+  {
+    "code": "COMM 3300",
+    "slug": "COMM3300",
+    "name": "Interpersonal Communication",
+    "department": "Communication",
+    "credits": 3,
+    "description": "Examines communication in personal, professional, and group relationships. Students analyze conflict, listening, identity, and message strategies in everyday settings.",
+    "instructorIds": [
+      "adrian-foster",
+      "ella-ramirez"
+    ],
+    "tags": [
+      "Upper Division",
+      "Writing Intensive"
+    ],
+    "baseStudents": 90,
+    "avgGPA": 3.58,
+    "viewCount": 1625
+  },
+  {
+    "code": "SOC 3400",
+    "slug": "SOC3400",
+    "name": "Social Inequality",
+    "department": "Sociology",
+    "credits": 3,
+    "description": "Studies inequality across class, race, gender, and institutions using sociological theory and evidence. Students interpret social patterns through written and discussion-based work.",
+    "instructorIds": [
+      "nina-banaji",
+      "ryan-mitchell"
+    ],
+    "tags": [
+      "Upper Division",
+      "Writing Intensive"
+    ],
+    "baseStudents": 70,
+    "avgGPA": 3.41,
+    "viewCount": 1327
+  },
+  {
+    "code": "PHIL 2500",
+    "slug": "PHIL2500",
+    "name": "Critical Thinking",
+    "department": "Philosophy",
+    "credits": 3,
+    "description": "Develops informal logic, argument analysis, and habits of disciplined reasoning. Students evaluate claims, evidence, and persuasion across academic and public contexts.",
+    "instructorIds": [
+      "caleb-ortiz",
+      "olivia-morgan"
+    ],
+    "tags": [
+      "Core",
+      "Reasoning"
+    ],
+    "baseStudents": 106,
+    "avgGPA": 3.52,
+    "viewCount": 1584
+  },
+  {
+    "code": "PSYC 3140",
+    "slug": "PSYC3140",
+    "name": "Cognitive Psychology",
+    "department": "Psychology",
+    "credits": 3,
+    "description": "Explores perception, memory, language, problem solving, and attention through experimental findings. Students connect psychological theory to everyday cognition.",
+    "instructorIds": [
+      "miles-bennett"
+    ],
+    "tags": [
+      "Upper Division",
+      "Research Focused"
+    ],
+    "baseStudents": 62,
+    "avgGPA": 3.18,
+    "viewCount": 1416
+  },
+  {
+    "code": "ENGL 2110",
+    "slug": "ENGL2110",
+    "name": "World Literature",
+    "department": "English",
+    "credits": 3,
+    "description": "Introduces literary texts from multiple cultural traditions with attention to genre, theme, and historical context. Students practice comparative interpretation and analytical writing.",
+    "instructorIds": [
+      "amelia-bryant"
+    ],
+    "tags": [
+      "Humanities",
+      "Writing Intensive"
+    ],
+    "baseStudents": 88,
+    "avgGPA": 3.49,
+    "viewCount": 1390
+  },
+  {
+    "code": "MKTG 4100",
+    "slug": "MKTG4100",
+    "name": "Digital Marketing Strategy",
+    "department": "Marketing",
+    "credits": 3,
+    "description": "Analyzes digital campaign planning, content strategy, platform metrics, and brand performance. Students interpret audience behavior and design measurable campaigns.",
+    "instructorIds": [
+      "simone-brooks"
+    ],
+    "tags": [
+      "Upper Division",
+      "Project Based"
+    ],
+    "baseStudents": 68,
+    "avgGPA": 3.43,
+    "viewCount": 1521
+  }
+]

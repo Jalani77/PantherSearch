@@ -1,0 +1,42 @@
+{
+  "cachedAt": "2026-03-19T18:08:28.310123Z",
+  "professor": {
+    "id": "VGVhY2hlci0xNTcxOTMy",
+    "firstName": "Sandy",
+    "lastName": "Henley",
+    "department": "Psychology",
+    "avgRating": 4.0,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": -1,
+    "numRatings": 2,
+    "tags": [],
+    "reviews": [
+      {
+        "id": "VGVhY2hlci0xNTcxOTMy-0",
+        "comment": "Goes through infromation rather quickly,but information is clear and concise. Definatly knows what he's talking about and if you ask a question he doesn't know the answer to he's look it up and get back to you.  Exams are easy if you put any effort into studying. Its really easy to BS your way through the research requirement.",
+        "className": "PSYCH105",
+        "date": "2011-10-16 02:55:30 +0000 UTC",
+        "grade": "",
+        "thumbsUpTotal": 0,
+        "thumbsDownTotal": 0,
+        "ratingTags": [],
+        "helpfulRating": 4.0,
+        "difficultyRating": 3.0,
+        "attendanceMandatory": ""
+      },
+      {
+        "id": "VGVhY2hlci0xNTcxOTMy-1",
+        "comment": "Ok",
+        "className": "PSYCH105",
+        "date": "2011-05-01 20:28:37 +0000 UTC",
+        "grade": "",
+        "thumbsUpTotal": 0,
+        "thumbsDownTotal": 0,
+        "ratingTags": [],
+        "helpfulRating": 4.0,
+        "difficultyRating": 3.0,
+        "attendanceMandatory": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "panthersearch-server",
+  "version": "1.0.0",
+  "description": "PantherSearch real-data API",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "npx tsx src/index.ts",
+    "start": "node --import tsx src/index.ts"
+  },
+  "keywords": ["gsu", "panthersearch", "express"],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.3.1",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.39.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.1",
+    "@types/node": "^24.7.2",
+    "nodemon": "^3.1.10",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.3"
+  }
+}

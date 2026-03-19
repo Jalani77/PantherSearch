@@ -1,0 +1,67 @@
+{
+  "query": "CSC 2720",
+  "source": "https://www.reddit.com/search.json",
+  "cachedAt": "2026-03-18T21:20:03.974369Z",
+  "results": [
+    {
+      "id": "1bgalrn",
+      "title": "CSC 2720",
+      "url": "https://www.reddit.com/r/GaState/comments/1bgalrn/csc_2720/",
+      "permalink": "/r/GaState/comments/1bgalrn/csc_2720/",
+      "score": 2,
+      "subreddit": "GaState",
+      "createdUtc": 1710608237,
+      "author": "Brief-Captain1450",
+      "selftext": "What exactly is taught in CSC 2720? I need to know the syllabus so that I can apply for a course override.",
+      "topComment": ""
+    },
+    {
+      "id": "vqwocm",
+      "title": "CSC 3210, 2720 and 3320 too much ?",
+      "url": "https://www.reddit.com/r/GaState/comments/vqwocm/csc_3210_2720_and_3320_too_much/",
+      "permalink": "/r/GaState/comments/vqwocm/csc_3210_2720_and_3320_too_much/",
+      "score": 1,
+      "subreddit": "GaState",
+      "createdUtc": 1656900277,
+      "author": "osrppp",
+      "selftext": "Hello. Is that too much to take in the fall semester? Those are the only 3 courses I will take",
+      "topComment": ""
+    },
+    {
+      "id": "wc3dw4",
+      "title": "Concerns about CSC 2720",
+      "url": "https://www.reddit.com/r/GaState/comments/wc3dw4/concerns_about_csc_2720/",
+      "permalink": "/r/GaState/comments/wc3dw4/concerns_about_csc_2720/",
+      "score": 5,
+      "subreddit": "GaState",
+      "createdUtc": 1659203976,
+      "author": "osrppp",
+      "selftext": "That\u2019s one of my classes for next semester. I have been doing leetcode exercises forever and I feel confident except for two things: I haven\u2019t been able to completely figure out trees and tree traversal, and I don\u2019t know how to calculate time complexity. How important are those two concepts  and where can I go to master them ?",
+      "topComment": ""
+    },
+    {
+      "id": "ujyapl",
+      "title": "CSC 2720 or CSC 2510",
+      "url": "https://www.reddit.com/r/GaState/comments/ujyapl/csc_2720_or_csc_2510/",
+      "permalink": "/r/GaState/comments/ujyapl/csc_2720_or_csc_2510/",
+      "score": 1,
+      "subreddit": "GaState",
+      "createdUtc": 1651873879,
+      "author": "juancarv",
+      "selftext": "Which class is tougher for a summer semester or a regular semester; and what professor do you recommend?",
+      "topComment": ""
+    },
+    {
+      "id": "9a0npl",
+      "title": "Csc 2720 students! Bhola incoming",
+      "url": "https://www.reddit.com/r/GaState/comments/9a0npl/csc_2720_students_bhola_incoming/",
+      "permalink": "/r/GaState/comments/9a0npl/csc_2720_students_bhola_incoming/",
+      "score": 11,
+      "subreddit": "GaState",
+      "createdUtc": 1535140820,
+      "author": "youngfit",
+      "selftext": "Wtf ? .. I just got a email saying my instructor has been changed... just when I thought this class was a easy A .. I check the name and its fucking Bhola.. geez ",
+      "topComment": ""
+    }
+  ]
+}

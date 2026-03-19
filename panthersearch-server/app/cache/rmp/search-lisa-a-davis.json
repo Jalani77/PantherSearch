@@ -1,0 +1,106 @@
+{
+  "query": "Lisa A. Davis",
+  "cachedAt": "2026-03-19T18:08:29.193323Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yODU0Nzkz",
+      "firstName": "Lisa",
+      "lastName": "Colon ",
+      "avgRating": 1.0,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 2,
+      "department": "Humanities"
+    },
+    {
+      "id": "VGVhY2hlci0zMDQ0OTMx",
+      "firstName": "Lisa",
+      "lastName": "Hoeller",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 2,
+      "department": "German"
+    },
+    {
+      "id": "VGVhY2hlci0xMDk2MDg2",
+      "firstName": "Lisa",
+      "lastName": "Sikkink",
+      "avgRating": 3.2,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 12,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xMjMyMzAx",
+      "firstName": "Lisa",
+      "lastName": "Gloss",
+      "avgRating": 3.1,
+      "avgDifficulty": 4.1,
+      "wouldTakeAgainPercent": 33,
+      "numRatings": 21,
+      "department": "Molecular Biosciences"
+    },
+    {
+      "id": "VGVhY2hlci0xOTY1Mzk=",
+      "firstName": "Lisa",
+      "lastName": "Morris",
+      "avgRating": 2.2,
+      "avgDifficulty": 4.2,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 23,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0xNDE1NDEw",
+      "firstName": "Lisa",
+      "lastName": "Tripp",
+      "avgRating": 2.0,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0xOTM2Njgy",
+      "firstName": "Lisa",
+      "lastName": "Carloye",
+      "avgRating": 3.1,
+      "avgDifficulty": 3.6,
+      "wouldTakeAgainPercent": 52,
+      "numRatings": 51,
+      "department": "Biological Sciences"
+    },
+    {
+      "id": "VGVhY2hlci01MzcxNjE=",
+      "firstName": "Lisa",
+      "lastName": "Guerrero",
+      "avgRating": 4.6,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 8,
+      "department": "Ethnic Studies"
+    },
+    {
+      "id": "VGVhY2hlci0xMTA1NDg1",
+      "firstName": "Lisa",
+      "lastName": "Carloye",
+      "avgRating": 3.1,
+      "avgDifficulty": 3.9,
+      "wouldTakeAgainPercent": 44,
+      "numRatings": 99,
+      "department": "Science Math & Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0xODc2ODY=",
+      "firstName": "Lisa",
+      "lastName": "Fournier",
+      "avgRating": 3.1,
+      "avgDifficulty": 4.1,
+      "wouldTakeAgainPercent": 58,
+      "numRatings": 25,
+      "department": "Psychology"
+    }
+  ]
+}

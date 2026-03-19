@@ -1,0 +1,26 @@
+{
+  "query": "Kelly B. Cranford",
+  "cachedAt": "2026-03-19T18:08:28.585527Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0zOTA3OTg=",
+      "firstName": "Roberta",
+      "lastName": "Kelly",
+      "avgRating": 4.0,
+      "avgDifficulty": 4.6,
+      "wouldTakeAgainPercent": 72,
+      "numRatings": 42,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0yODYwNTY3",
+      "firstName": "Kelly",
+      "lastName": "Hewitt",
+      "avgRating": 3.7,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 66,
+      "numRatings": 3,
+      "department": "Psychology"
+    }
+  ]
+}

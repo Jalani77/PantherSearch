@@ -1,0 +1,56 @@
+{
+  "query": "CAL",
+  "cachedAt": "2026-03-18T21:30:45.273173Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0zMDEwNTM3",
+      "firstName": "Callie",
+      "lastName": "Phillips",
+      "avgRating": 2.4,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 37,
+      "numRatings": 8,
+      "department": "Philosophy"
+    },
+    {
+      "id": "VGVhY2hlci0yNjk4ODcx",
+      "firstName": "Caleb",
+      "lastName": "Tadesse",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 5,
+      "department": "Nursing"
+    },
+    {
+      "id": "VGVhY2hlci0xODMwNDc2",
+      "firstName": "Christopher",
+      "lastName": "Califf",
+      "avgRating": 4.8,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 4,
+      "department": "Information Systems"
+    },
+    {
+      "id": "VGVhY2hlci0xNjc4MDg3",
+      "firstName": "Jamie",
+      "lastName": "Callison",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.1,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 8,
+      "department": "Hotel & Restaurant Management"
+    },
+    {
+      "id": "VGVhY2hlci0yODY1MTEx",
+      "firstName": "Callen",
+      "lastName": "Trapp",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "English"
+    }
+  ]
+}

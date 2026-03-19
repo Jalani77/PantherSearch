@@ -1,0 +1,106 @@
+{
+  "query": "Laura L. King",
+  "cachedAt": "2026-03-18T21:24:31.549897Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yNTM4MTk0",
+      "firstName": "L.",
+      "lastName": "Carloye",
+      "avgRating": 2.5,
+      "avgDifficulty": 5.0,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 2,
+      "department": "Biological Sciences"
+    },
+    {
+      "id": "VGVhY2hlci0xNTM1OTU=",
+      "firstName": "Mark L.",
+      "lastName": "Nelson",
+      "avgRating": 2.8,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 17,
+      "department": "Animal Science"
+    },
+    {
+      "id": "VGVhY2hlci0xNjQ0NTky",
+      "firstName": "Laura",
+      "lastName": "Powers",
+      "avgRating": 4.5,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 81,
+      "numRatings": 25,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0yNDgwMDIx",
+      "firstName": "Laura",
+      "lastName": "Kuhlman",
+      "avgRating": 2.8,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 25,
+      "numRatings": 12,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xOTE5NzA4",
+      "firstName": "Laura",
+      "lastName": "Dubowski",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0yNTU1NjQz",
+      "firstName": "Laura",
+      "lastName": "Lavine",
+      "avgRating": 4.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 2,
+      "department": "Entomology"
+    },
+    {
+      "id": "VGVhY2hlci0zMDk0Mzc1",
+      "firstName": "Haden",
+      "lastName": "Kingrey",
+      "avgRating": 3.8,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 50,
+      "numRatings": 4,
+      "department": "Anthropology"
+    },
+    {
+      "id": "VGVhY2hlci0yNTgxMzg2",
+      "firstName": "Martin",
+      "lastName": "King",
+      "avgRating": 4.5,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 2,
+      "department": "Music"
+    },
+    {
+      "id": "VGVhY2hlci0yMTY3NDk2",
+      "firstName": "Roxanna",
+      "lastName": "King",
+      "avgRating": 4.7,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 3,
+      "department": "Anthropology"
+    },
+    {
+      "id": "VGVhY2hlci0xOTE3Mjkx",
+      "firstName": "Skyler",
+      "lastName": "King",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "Marketing"
+    }
+  ]
+}

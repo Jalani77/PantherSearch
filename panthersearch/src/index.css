@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    background:
+      radial-gradient(circle at top left, rgba(17, 17, 17, 0.035), transparent 28%),
+      linear-gradient(180deg, #ffffff 0%, #f8f9fa 18%, #f8f9fa 100%);
+    color: #111111;
+    font-family: 'Inter', system-ui, sans-serif;
+    text-rendering: optimizeLegibility;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  button,
+  input,
+  select {
+    font: inherit;
+  }
+}
+
+@layer components {
+  .page-shell {
+    @apply mx-auto w-full max-w-[1200px] px-6;
+  }
+
+  .surface-card {
+    @apply rounded-md border border-[#E5E7EB] bg-white;
+  }
+
+  .section-label {
+    @apply text-[11px] font-bold uppercase tracking-[0.08em] text-[#6B7280];
+  }
+
+  .text-caption {
+    @apply text-xs text-[#6B7280];
+  }
+
+  .btn-black {
+    @apply inline-flex items-center justify-center rounded-md border border-black bg-black px-4 py-2 text-sm font-medium text-white transition hover:bg-[#111111];
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center rounded-md border border-[#E5E7EB] bg-white px-4 py-2 text-sm font-medium text-[#111111] transition hover:bg-[#F3F4F6];
+  }
+
+  .pill-tab {
+    @apply rounded-full border border-[#E5E7EB] bg-white px-3 py-2 text-sm font-medium text-[#111111] transition hover:bg-[#F3F4F6];
+  }
+
+  .pill-tab-active {
+    @apply border-black bg-black text-white hover:bg-black;
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .animate-fade-up {
+    animation: fadeUp 0.45s ease-out both;
+  }
+
+  @keyframes fadeUp {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}

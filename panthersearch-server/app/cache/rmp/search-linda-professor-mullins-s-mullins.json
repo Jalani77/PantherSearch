@@ -1,0 +1,106 @@
+{
+  "query": "Linda (Professor Mullins) S. Mullins",
+  "cachedAt": "2026-03-19T18:08:28.881250Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0zODg0MDg=",
+      "firstName": "S. Marc",
+      "lastName": "Lindsey",
+      "avgRating": 4.0,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 35,
+      "department": "Business Law"
+    },
+    {
+      "id": "VGVhY2hlci03ODUyMzk=",
+      "firstName": "Linda",
+      "lastName": "Heidenreich",
+      "avgRating": 3.9,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 22,
+      "department": "Women's Studies"
+    },
+    {
+      "id": "VGVhY2hlci0xNzQ3MzQy",
+      "firstName": "Linda",
+      "lastName": "Chen",
+      "avgRating": 3.1,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 11,
+      "department": "Accounting"
+    },
+    {
+      "id": "VGVhY2hlci0xOTI2NDY3",
+      "firstName": "Linda ",
+      "lastName": "Bradley",
+      "avgRating": 4.0,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Apparel Merchandising"
+    },
+    {
+      "id": "VGVhY2hlci0xODEzMDU4",
+      "firstName": "Linda",
+      "lastName": "Cook",
+      "avgRating": 4.5,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 83,
+      "numRatings": 14,
+      "department": "Biological Sciences"
+    },
+    {
+      "id": "VGVhY2hlci00OTk3MDU=",
+      "firstName": "Linda",
+      "lastName": "Kittell",
+      "avgRating": 3.9,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 17,
+      "department": "Humanities"
+    },
+    {
+      "id": "VGVhY2hlci0yOTgyMDY0",
+      "firstName": "Linda",
+      "lastName": "Chalich",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Sports Management"
+    },
+    {
+      "id": "VGVhY2hlci0xMjQxNzA2",
+      "firstName": "Linda",
+      "lastName": "Russo",
+      "avgRating": 1.7,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 10,
+      "numRatings": 32,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0yNzU4MjAx",
+      "firstName": "Linda",
+      "lastName": "Heidenreich-Zu\u00f1iga",
+      "avgRating": 3.3,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 50,
+      "numRatings": 4,
+      "department": "History"
+    },
+    {
+      "id": "VGVhY2hlci0zMTY5NDg=",
+      "firstName": "Linda",
+      "lastName": "Pall",
+      "avgRating": 3.4,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 50,
+      "department": "Business"
+    }
+  ]
+}

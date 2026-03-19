@@ -1,0 +1,26 @@
+{
+  "query": "Clarissa S. Stewart",
+  "cachedAt": "2026-03-19T18:08:25.828769Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0zODg0MDg=",
+      "firstName": "S. Marc",
+      "lastName": "Lindsey",
+      "avgRating": 4.0,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 35,
+      "department": "Business Law"
+    },
+    {
+      "id": "VGVhY2hlci0xNTcyNzg2",
+      "firstName": "S. C .",
+      "lastName": "Skalicky",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Not Specified"
+    }
+  ]
+}

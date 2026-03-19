@@ -1,0 +1,106 @@
+{
+  "query": "Joshua G. Miller",
+  "cachedAt": "2026-03-18T21:21:29.890790Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yNDMwNjU4",
+      "firstName": "Joshua",
+      "lastName": "Tibbitts",
+      "avgRating": 5.0,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 4,
+      "department": "Economics"
+    },
+    {
+      "id": "VGVhY2hlci0yMzE1NTIz",
+      "firstName": "Joshua",
+      "lastName": "Karas",
+      "avgRating": 4.5,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 2,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0zMTU0NDk1",
+      "firstName": "Joshua",
+      "lastName": "Hust",
+      "avgRating": 4.0,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0xMjc5ODEz",
+      "firstName": "Joshua",
+      "lastName": "Bonzo",
+      "avgRating": 4.9,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 36,
+      "department": "German"
+    },
+    {
+      "id": "VGVhY2hlci0yNzM3ODU4",
+      "firstName": "Joshua",
+      "lastName": "Bonzo",
+      "avgRating": 3.0,
+      "avgDifficulty": 5.0,
+      "wouldTakeAgainPercent": 50,
+      "numRatings": 2,
+      "department": "Foreign Languages & Cultures"
+    },
+    {
+      "id": "VGVhY2hlci0yOTkxMjI0",
+      "firstName": "Joshua",
+      "lastName": "Groves",
+      "avgRating": 4.4,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 85,
+      "numRatings": 7,
+      "department": "Marketing"
+    },
+    {
+      "id": "VGVhY2hlci0yNTUxNTUx",
+      "firstName": "Joshua",
+      "lastName": "Munroe",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "Political Science"
+    },
+    {
+      "id": "VGVhY2hlci0yMDk1MDI1",
+      "firstName": "Joshua",
+      "lastName": "Maurer",
+      "avgRating": 2.0,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 1,
+      "department": "Management"
+    },
+    {
+      "id": "VGVhY2hlci0xMTgzMTY4",
+      "firstName": "Joshua",
+      "lastName": "Hoops",
+      "avgRating": 4.1,
+      "avgDifficulty": 4.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 7,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci02MTIzMDE=",
+      "firstName": "G. Patrick",
+      "lastName": "Meier",
+      "avgRating": 2.7,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 17,
+      "department": "Chemistry"
+    }
+  ]
+}

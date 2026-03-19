@@ -1,0 +1,26 @@
+{
+  "query": "Jodi M. Henley",
+  "cachedAt": "2026-03-19T18:08:28.014186Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xMzA0Njgz",
+      "firstName": "Jodi",
+      "lastName": "Frankford",
+      "avgRating": 3.8,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xNTcxOTMy",
+      "firstName": "Sandy",
+      "lastName": "Henley",
+      "avgRating": 4.0,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 2,
+      "department": "Psychology"
+    }
+  ]
+}

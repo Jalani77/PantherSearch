@@ -1,0 +1,106 @@
+{
+  "query": "David L. Petrisky",
+  "cachedAt": "2026-03-19T18:25:19.483280Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yNTM4MTk0",
+      "firstName": "L.",
+      "lastName": "Carloye",
+      "avgRating": 2.5,
+      "avgDifficulty": 5.0,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 2,
+      "department": "Biological Sciences"
+    },
+    {
+      "id": "VGVhY2hlci0xNTM1OTU=",
+      "firstName": "Mark L.",
+      "lastName": "Nelson",
+      "avgRating": 2.8,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 17,
+      "department": "Animal Science"
+    },
+    {
+      "id": "VGVhY2hlci0xMzE1MDA3",
+      "firstName": "David",
+      "lastName": "Whidbee",
+      "avgRating": 4.0,
+      "avgDifficulty": 3.9,
+      "wouldTakeAgainPercent": 55,
+      "numRatings": 11,
+      "department": "Business"
+    },
+    {
+      "id": "VGVhY2hlci0yMjgxMjUy",
+      "firstName": "David",
+      "lastName": "Lee",
+      "avgRating": 1.1,
+      "avgDifficulty": 4.1,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 8,
+      "department": "Chemistry"
+    },
+    {
+      "id": "VGVhY2hlci0xMDE5MzU2",
+      "firstName": "David",
+      "lastName": "Bakken",
+      "avgRating": 2.3,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 2,
+      "department": "Computer Science"
+    },
+    {
+      "id": "VGVhY2hlci0xODQyNzIz",
+      "firstName": "David",
+      "lastName": "Nielson",
+      "avgRating": 4.8,
+      "avgDifficulty": 1.5,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "Spanish"
+    },
+    {
+      "id": "VGVhY2hlci00NTE5Njk=",
+      "firstName": "David",
+      "lastName": "Knuff",
+      "avgRating": 4.4,
+      "avgDifficulty": 2.1,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 16,
+      "department": "Marketing"
+    },
+    {
+      "id": "VGVhY2hlci0xODg4OTk5",
+      "firstName": "David",
+      "lastName": "Lin",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Bioengineering"
+    },
+    {
+      "id": "VGVhY2hlci0xMTIyODg0",
+      "firstName": "David",
+      "lastName": "Raska",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Marketing"
+    },
+    {
+      "id": "VGVhY2hlci0xNTY3Nzcy",
+      "firstName": "Prabu",
+      "lastName": "David",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Communication"
+    }
+  ]
+}

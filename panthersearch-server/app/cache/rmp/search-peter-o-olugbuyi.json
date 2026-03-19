@@ -1,0 +1,106 @@
+{
+  "query": "Peter O. Olugbuyi",
+  "cachedAt": "2026-03-19T18:08:29.492201Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xMzE3MDQ3",
+      "firstName": "Peter",
+      "lastName": "Gray",
+      "avgRating": 2.6,
+      "avgDifficulty": 3.9,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 52,
+      "department": "Economics"
+    },
+    {
+      "id": "VGVhY2hlci01MDgwNTk=",
+      "firstName": "Peter",
+      "lastName": "Chilson",
+      "avgRating": 4.7,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 93,
+      "numRatings": 31,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0yNDMxMzI2",
+      "firstName": "Peter",
+      "lastName": "Pfromm",
+      "avgRating": 2.4,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": 40,
+      "numRatings": 5,
+      "department": "Chemical Engineering"
+    },
+    {
+      "id": "VGVhY2hlci01NDkzMDM=",
+      "firstName": "Peter",
+      "lastName": "Larson",
+      "avgRating": 4.3,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 6,
+      "department": "Geology"
+    },
+    {
+      "id": "VGVhY2hlci0yNTcyODE3",
+      "firstName": "Peter",
+      "lastName": "Hager",
+      "avgRating": 3.0,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 1,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xNjE2Mzg3",
+      "firstName": "Peter",
+      "lastName": "Klosterman",
+      "avgRating": 4.9,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 19,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0xNjQ4MzE5",
+      "firstName": "Peter",
+      "lastName": "Rosen",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 7,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0xMjQwMTgx",
+      "firstName": "Peter",
+      "lastName": "Collins",
+      "avgRating": 4.1,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 6,
+      "department": "Criminal Justice"
+    },
+    {
+      "id": "VGVhY2hlci0yMjUwNTE1",
+      "firstName": "Peter",
+      "lastName": "Boag",
+      "avgRating": 2.6,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 42,
+      "numRatings": 7,
+      "department": "History"
+    },
+    {
+      "id": "VGVhY2hlci0yMDEyMzY5",
+      "firstName": "Peter",
+      "lastName": "Wyeth",
+      "avgRating": 4.8,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 4,
+      "department": "International Business"
+    }
+  ]
+}

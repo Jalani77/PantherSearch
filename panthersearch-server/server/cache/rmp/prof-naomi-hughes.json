@@ -1,0 +1,70 @@
+{
+  "query": "Prof. Naomi Hughes",
+  "found": true,
+  "source": "https://www.ratemyprofessors.com/graphql",
+  "cachedAt": "2026-03-18T18:06:36.983Z",
+  "professor": {
+    "id": "VGVhY2hlci0yNDMxMzc=",
+    "firstName": "Todd",
+    "lastName": "Hughes",
+    "department": "Communication",
+    "avgRating": 4.1,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": -1,
+    "numRatings": 4,
+    "reviews": [
+      {
+        "id": "VGVhY2hlci0yNDMxMzc=-0",
+        "comment": "Wonderful professor, but you have to do the assignments. If you slack off, or aren't interested, he notices and calls it like it is. Do the assignments to the rubric and you will be fine.",
+        "className": "COMM101",
+        "date": "2012-02-13 21:59:21 +0000 UTC",
+        "grade": "",
+        "thumbsUpTotal": 0,
+        "thumbsDownTotal": 0,
+        "ratingTags": "",
+        "helpfulRating": 4,
+        "difficultyRating": 2,
+        "attendanceMandatory": false
+      },
+      {
+        "id": "VGVhY2hlci0yNDMxMzc=-1",
+        "comment": "If you understand how to use a computer you should be ok. If not, well good luck.",
+        "className": "COM240",
+        "date": "2009-11-09 16:32:37 +0000 UTC",
+        "grade": "",
+        "thumbsUpTotal": 0,
+        "thumbsDownTotal": 0,
+        "ratingTags": "",
+        "helpfulRating": 5,
+        "difficultyRating": 4,
+        "attendanceMandatory": false
+      },
+      {
+        "id": "VGVhY2hlci0yNDMxMzc=-2",
+        "comment": "he was really helpful even though I was retarded with the website assignment.  He's not so helpful though when you're a slacker and don't try to learn for youself.",
+        "className": "COM",
+        "date": "2005-09-01 11:07:23 +0000 UTC",
+        "grade": "A+",
+        "thumbsUpTotal": 0,
+        "thumbsDownTotal": 0,
+        "ratingTags": "",
+        "helpfulRating": 5,
+        "difficultyRating": 3,
+        "attendanceMandatory": true
+      },
+      {
+        "id": "VGVhY2hlci0yNDMxMzc=-3",
+        "comment": "No Comments",
+        "className": "COM140",
+        "date": "2003-08-27 14:19:19 +0000 UTC",
+        "grade": "",
+        "thumbsUpTotal": 0,
+        "thumbsDownTotal": 0,
+        "ratingTags": "",
+        "helpfulRating": 5,
+        "difficultyRating": 2,
+        "attendanceMandatory": false
+      }
+    ]
+  }
+}

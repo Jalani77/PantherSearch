@@ -1,0 +1,26 @@
+{
+  "query": "Sayed Hossein (Hossein) Saghaeiannejad Esfahani",
+  "cachedAt": "2026-03-18T21:22:22.598093Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xOTQ1OTIw",
+      "firstName": "Hossein",
+      "lastName": "Noorazar",
+      "avgRating": 2.3,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 5,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0yMDIyNjkz",
+      "firstName": "Amir Hossein ",
+      "lastName": "Maleki",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Management"
+    }
+  ]
+}

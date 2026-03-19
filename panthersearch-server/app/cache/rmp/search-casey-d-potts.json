@@ -1,0 +1,66 @@
+{
+  "query": "Casey D. Potts",
+  "cachedAt": "2026-03-18T21:24:29.517787Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0zMTQ5MDM=",
+      "firstName": "Casey",
+      "lastName": "Shiprek",
+      "avgRating": 4.3,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 29,
+      "department": "Fine Arts"
+    },
+    {
+      "id": "VGVhY2hlci0yMDA2NDcz",
+      "firstName": "Casey",
+      "lastName": "Ratto",
+      "avgRating": 3.4,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 33,
+      "numRatings": 5,
+      "department": "Comparative Ethnic Studies"
+    },
+    {
+      "id": "VGVhY2hlci0yMTM5MjEy",
+      "firstName": "Casey",
+      "lastName": "Bolt",
+      "avgRating": 2.0,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 3,
+      "department": "Economics"
+    },
+    {
+      "id": "VGVhY2hlci0xODc1ODY0",
+      "firstName": "Casey",
+      "lastName": "Bylund",
+      "avgRating": 5.0,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 2,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0xMTA3Mzk1",
+      "firstName": "Casey",
+      "lastName": "McNellis",
+      "avgRating": 2.6,
+      "avgDifficulty": 4.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 8,
+      "department": "Accounting"
+    },
+    {
+      "id": "VGVhY2hlci0xODUxMzQ0",
+      "firstName": "Donna",
+      "lastName": "Potts",
+      "avgRating": 2.5,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 36,
+      "numRatings": 14,
+      "department": "Humanities"
+    }
+  ]
+}

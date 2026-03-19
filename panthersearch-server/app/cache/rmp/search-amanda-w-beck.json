@@ -1,0 +1,106 @@
+{
+  "query": "Amanda W. Beck",
+  "cachedAt": "2026-03-19T18:25:19.139551Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yNjI3ODU=",
+      "firstName": "Amanda",
+      "lastName": "Espinosa-Aguilar",
+      "avgRating": 1.9,
+      "avgDifficulty": 4.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 19,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xNjg0MDg1",
+      "firstName": "Amanda",
+      "lastName": "Miller",
+      "avgRating": 4.5,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 2,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0yNzMzMTc5",
+      "firstName": "Amanda",
+      "lastName": "Stueber",
+      "avgRating": 4.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 85,
+      "numRatings": 27,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0zMDk3Mjkx",
+      "firstName": "Amanda",
+      "lastName": "Canales",
+      "avgRating": 5.0,
+      "avgDifficulty": 1.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "Digital Technology & Culture"
+    },
+    {
+      "id": "VGVhY2hlci0yNzA0Mjk5",
+      "firstName": "Amanda",
+      "lastName": "Hussein",
+      "avgRating": 4.0,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 3,
+      "department": "Spanish"
+    },
+    {
+      "id": "VGVhY2hlci0yMDE0MjA0",
+      "firstName": "Amanda",
+      "lastName": "Clayson",
+      "avgRating": 3.5,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Sociology"
+    },
+    {
+      "id": "VGVhY2hlci0xODM1ODIy",
+      "firstName": "Amanda",
+      "lastName": "Boyd",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0yNzU0ODYw",
+      "firstName": "Amanda",
+      "lastName": "McMahon",
+      "avgRating": 5.0,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 15,
+      "department": "Kinesiology"
+    },
+    {
+      "id": "VGVhY2hlci0yNDcxMjM4",
+      "firstName": "Amanda",
+      "lastName": "Hohner",
+      "avgRating": 5.0,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "Civil & Environ Engineering"
+    },
+    {
+      "id": "VGVhY2hlci03OTQ1NzY=",
+      "firstName": "Amanda",
+      "lastName": "Van Lanen",
+      "avgRating": 3.7,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 16,
+      "department": "History"
+    }
+  ]
+}

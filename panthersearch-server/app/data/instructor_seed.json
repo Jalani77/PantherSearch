@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "alicia-webb",
+    "name": "Dr. Alicia Webb",
+    "department": "Business",
+    "title": "Associate Professor",
+    "rating": 4.6,
+    "difficulty": 2.7,
+    "wouldTakeAgain": 92,
+    "classIds": [
+      "BUSA 3000",
+      "STAT 2670"
+    ],
+    "tags": [
+      "Clear grading",
+      "Amazing lectures",
+      "Real world examples"
+    ],
+    "bio": "Dr. Webb teaches analytics with a focus on applied decision making and business storytelling. Her classes emphasize dashboards, forecasting, and communication.",
+    "viewCount": 3241,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024"
+    ]
+  },
+  {
+    "id": "marcus-reynolds",
+    "name": "Prof. Marcus Reynolds",
+    "department": "Business",
+    "title": "Clinical Assistant Professor",
+    "rating": 4.2,
+    "difficulty": 3.1,
+    "wouldTakeAgain": 84,
+    "classIds": [
+      "BUSA 4800",
+      "MGT 4200"
+    ],
+    "tags": [
+      "Capstone heavy",
+      "Fair grader",
+      "Group projects"
+    ],
+    "bio": "Professor Reynolds works with strategy and operations students on capstone simulations that mirror Atlanta-area consulting projects.",
+    "viewCount": 2784,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024"
+    ]
+  },
+  {
+    "id": "simone-brooks",
+    "name": "Dr. Simone Brooks",
+    "department": "Marketing",
+    "title": "Professor",
+    "rating": 4.4,
+    "difficulty": 2.9,
+    "wouldTakeAgain": 89,
+    "classIds": [
+      "MKTG 3100",
+      "MKTG 4100"
+    ],
+    "tags": [
+      "Discussion based",
+      "Memorable examples",
+      "Helpful feedback"
+    ],
+    "bio": "Dr. Brooks studies digital consumer behavior and brand strategy. Students know her for current case studies and lively discussions.",
+    "viewCount": 2903,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023"
+    ]
+  },
+  {
+    "id": "ethan-parker",
+    "name": "Dr. Ethan Parker",
+    "department": "Finance",
+    "title": "Associate Professor",
+    "rating": 3.9,
+    "difficulty": 3.7,
+    "wouldTakeAgain": 72,
+    "classIds": [
+      "FI 3300",
+      "ECON 2105"
+    ],
+    "tags": [
+      "Fast paced",
+      "Lots of practice",
+      "Exam heavy"
+    ],
+    "bio": "Dr. Parker teaches corporate finance and macro-financial systems with an emphasis on problem solving under time pressure.",
+    "viewCount": 2188,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023",
+      "Summer 2023"
+    ]
+  },
+  {
+    "id": "hannah-kim",
+    "name": "Dr. Hannah Kim",
+    "department": "Accounting",
+    "title": "Senior Lecturer",
+    "rating": 4.1,
+    "difficulty": 3.6,
+    "wouldTakeAgain": 77,
+    "classIds": [
+      "ACCT 2101",
+      "ACCT 2102"
+    ],
+    "tags": [
+      "Organized",
+      "Weekly quizzes",
+      "Conceptual clarity"
+    ],
+    "bio": "Dr. Kim leads introductory accounting sequences and helps students build clean study systems for financial statements and managerial reporting.",
+    "viewCount": 2676,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024"
+    ]
+  },
+  {
+    "id": "daniel-owens",
+    "name": "Prof. Daniel Owens",
+    "department": "Management",
+    "title": "Clinical Professor",
+    "rating": 4.0,
+    "difficulty": 2.8,
+    "wouldTakeAgain": 81,
+    "classIds": [
+      "MGT 3100",
+      "MGT 4200"
+    ],
+    "tags": [
+      "Participation matters",
+      "Practical",
+      "Teamwork"
+    ],
+    "bio": "Professor Owens focuses on leadership, organizational culture, and consulting-style presentation skills for upper-division business majors.",
+    "viewCount": 1873,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024"
+    ]
+  },
+  {
+    "id": "maya-patel",
+    "name": "Dr. Maya Patel",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "rating": 4.7,
+    "difficulty": 3.2,
+    "wouldTakeAgain": 91,
+    "classIds": [
+      "CSC 1301",
+      "CSC 2310"
+    ],
+    "tags": [
+      "Great slides",
+      "Patient",
+      "Strong fundamentals"
+    ],
+    "bio": "Dr. Patel teaches introductory computing with a focus on accessible explanations and strong software engineering habits from week one.",
+    "viewCount": 4010,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023"
+    ]
+  },
+  {
+    "id": "victor-alvarez",
+    "name": "Dr. Victor Alvarez",
+    "department": "Computer Science",
+    "title": "Professor",
+    "rating": 4.5,
+    "difficulty": 4.1,
+    "wouldTakeAgain": 83,
+    "classIds": [
+      "CSC 2720",
+      "CSC 4520"
+    ],
+    "tags": [
+      "Challenging exams",
+      "Very smart",
+      "Worth it"
+    ],
+    "bio": "Dr. Alvarez teaches data structures and algorithms, with research interests in graph optimization and algorithmic performance.",
+    "viewCount": 3564,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023",
+      "Summer 2023"
+    ]
+  },
+  {
+    "id": "tara-simmons",
+    "name": "Prof. Tara Simmons",
+    "department": "Mathematics",
+    "title": "Principal Senior Lecturer",
+    "rating": 4.3,
+    "difficulty": 3.5,
+    "wouldTakeAgain": 85,
+    "classIds": [
+      "MATH 1111",
+      "STAT 2670"
+    ],
+    "tags": [
+      "Good examples",
+      "Exam reviews",
+      "Accessible"
+    ],
+    "bio": "Professor Simmons teaches gateway quantitative courses and is known for structured review sessions that help students rebuild confidence.",
+    "viewCount": 3110,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024"
+    ]
+  },
+  {
+    "id": "devon-chase",
+    "name": "Dr. Devon Chase",
+    "department": "Mathematics",
+    "title": "Associate Professor",
+    "rating": 3.8,
+    "difficulty": 4.4,
+    "wouldTakeAgain": 68,
+    "classIds": [
+      "MATH 2211",
+      "MATH 2212"
+    ],
+    "tags": [
+      "Hard but fair",
+      "Proof focused",
+      "No busywork"
+    ],
+    "bio": "Dr. Chase teaches the calculus sequence and expects students to show reasoning with precision and consistency.",
+    "viewCount": 2555,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024"
+    ]
+  },
+  {
+    "id": "rachel-cho",
+    "name": "Dr. Rachel Cho",
+    "department": "Mathematics",
+    "title": "Assistant Professor",
+    "rating": 4.2,
+    "difficulty": 4.0,
+    "wouldTakeAgain": 79,
+    "classIds": [
+      "MATH 2420",
+      "CSC 4520"
+    ],
+    "tags": [
+      "Detailed notes",
+      "Proof heavy",
+      "Helpful office hours"
+    ],
+    "bio": "Dr. Cho works across discrete mathematics and theory, helping students connect abstract concepts to computing systems.",
+    "viewCount": 1988,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023"
+    ]
+  },
+  {
+    "id": "naomi-hughes",
+    "name": "Prof. Naomi Hughes",
+    "department": "English",
+    "title": "Senior Lecturer",
+    "rating": 4.8,
+    "difficulty": 2.3,
+    "wouldTakeAgain": 95,
+    "classIds": [
+      "ENGL 1101",
+      "ENGL 1102"
+    ],
+    "tags": [
+      "Kind",
+      "Easy to follow",
+      "Useful feedback"
+    ],
+    "bio": "Professor Hughes teaches composition as a practical communication skill, with scaffolded assignments and clear revision pathways.",
+    "viewCount": 3804,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023",
+      "Summer 2023"
+    ]
+  },
+  {
+    "id": "miles-bennett",
+    "name": "Dr. Miles Bennett",
+    "department": "Psychology",
+    "title": "Associate Professor",
+    "rating": 4.6,
+    "difficulty": 2.6,
+    "wouldTakeAgain": 90,
+    "classIds": [
+      "PSYC 1101",
+      "PSYC 3140"
+    ],
+    "tags": [
+      "Funny",
+      "Memorable lectures",
+      "Clear exams"
+    ],
+    "bio": "Dr. Bennett teaches introductory and cognitive psychology through interactive lecture design and research-based learning strategies.",
+    "viewCount": 3330,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024"
+    ]
+  },
+  {
+    "id": "bianca-morales",
+    "name": "Dr. Bianca Morales",
+    "department": "Biology",
+    "title": "Assistant Professor",
+    "rating": 4.0,
+    "difficulty": 3.8,
+    "wouldTakeAgain": 74,
+    "classIds": [
+      "BIOL 1107",
+      "BIOL 1108"
+    ],
+    "tags": [
+      "Lab practicals",
+      "Study guides",
+      "Content dense"
+    ],
+    "bio": "Dr. Morales teaches introductory biology with an emphasis on scientific reasoning, data interpretation, and lab readiness.",
+    "viewCount": 2459,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024"
+    ]
+  },
+  {
+    "id": "owen-fraser",
+    "name": "Prof. Owen Fraser",
+    "department": "Chemistry",
+    "title": "Senior Lecturer",
+    "rating": 3.7,
+    "difficulty": 4.2,
+    "wouldTakeAgain": 63,
+    "classIds": [
+      "CHEM 1211",
+      "CHEM 1212"
+    ],
+    "tags": [
+      "Tough tests",
+      "Clear labs",
+      "Needs practice"
+    ],
+    "bio": "Professor Fraser teaches general chemistry and focuses on quantitative problem solving tied closely to laboratory methods.",
+    "viewCount": 2298,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023"
+    ]
+  },
+  {
+    "id": "leah-hamilton",
+    "name": "Dr. Leah Hamilton",
+    "department": "History",
+    "title": "Professor",
+    "rating": 4.5,
+    "difficulty": 2.7,
+    "wouldTakeAgain": 88,
+    "classIds": [
+      "HIST 2110",
+      "HIST 2111"
+    ],
+    "tags": [
+      "Engaging",
+      "Essay based",
+      "Great storyteller"
+    ],
+    "bio": "Dr. Hamilton teaches U.S. history with a focus on primary sources, civic institutions, and Atlanta as a historical case study.",
+    "viewCount": 2067,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023",
+      "Summer 2023"
+    ]
+  },
+  {
+    "id": "jonah-price",
+    "name": "Prof. Jonah Price",
+    "department": "Political Science",
+    "title": "Lecturer",
+    "rating": 4.3,
+    "difficulty": 2.5,
+    "wouldTakeAgain": 87,
+    "classIds": [
+      "POLS 1101",
+      "POLS 2401"
+    ],
+    "tags": [
+      "Current events",
+      "Clear rubrics",
+      "Interesting"
+    ],
+    "bio": "Professor Price connects political science coursework to current institutions, elections, and public policy debates.",
+    "viewCount": 1971,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024"
+    ]
+  },
+  {
+    "id": "sophia-shah",
+    "name": "Dr. Sophia Shah",
+    "department": "Economics",
+    "title": "Associate Professor",
+    "rating": 4.1,
+    "difficulty": 3.3,
+    "wouldTakeAgain": 80,
+    "classIds": [
+      "ECON 2106",
+      "ECON 2105"
+    ],
+    "tags": [
+      "Graphs matter",
+      "Fair tests",
+      "Conceptual"
+    ],
+    "bio": "Dr. Shah teaches principles courses with a strong focus on modeling, incentives, and policy interpretation.",
+    "viewCount": 2681,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024"
+    ]
+  },
+  {
+    "id": "adrian-foster",
+    "name": "Prof. Adrian Foster",
+    "department": "Communication",
+    "title": "Senior Lecturer",
+    "rating": 4.7,
+    "difficulty": 2.1,
+    "wouldTakeAgain": 94,
+    "classIds": [
+      "COMM 1100",
+      "COMM 3300"
+    ],
+    "tags": [
+      "Supportive",
+      "Presentation coaching",
+      "Easy grader"
+    ],
+    "bio": "Professor Foster teaches public speaking with strong attention to confidence building, performance feedback, and delivery coaching.",
+    "viewCount": 3220,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023"
+    ]
+  },
+  {
+    "id": "nina-banaji",
+    "name": "Dr. Nina Banaji",
+    "department": "Sociology",
+    "title": "Associate Professor",
+    "rating": 4.4,
+    "difficulty": 2.4,
+    "wouldTakeAgain": 89,
+    "classIds": [
+      "SOC 1101",
+      "SOC 3400"
+    ],
+    "tags": [
+      "Thought provoking",
+      "Readable",
+      "Discussion friendly"
+    ],
+    "bio": "Dr. Banaji teaches introductory sociology and urban inequality, often tying coursework to Atlanta community case studies.",
+    "viewCount": 2140,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023",
+      "Summer 2023"
+    ]
+  },
+  {
+    "id": "caleb-ortiz",
+    "name": "Prof. Caleb Ortiz",
+    "department": "Philosophy",
+    "title": "Assistant Professor",
+    "rating": 4.5,
+    "difficulty": 2.9,
+    "wouldTakeAgain": 86,
+    "classIds": [
+      "PHIL 2010",
+      "PHIL 2500"
+    ],
+    "tags": [
+      "Discussion heavy",
+      "Interesting prompts",
+      "Fair grader"
+    ],
+    "bio": "Professor Ortiz teaches philosophy through structured discussion, concise writing, and examples that connect theory to lived experience.",
+    "viewCount": 1762,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024"
+    ]
+  },
+  {
+    "id": "jasmine-carter",
+    "name": "Dr. Jasmine Carter",
+    "department": "Computer Science",
+    "title": "Senior Lecturer",
+    "rating": 4.4,
+    "difficulty": 3.0,
+    "wouldTakeAgain": 88,
+    "classIds": [
+      "CSC 1302",
+      "CSC 3210"
+    ],
+    "tags": [
+      "Project based",
+      "Helpful TA notes",
+      "Responsive"
+    ],
+    "bio": "Dr. Carter teaches software development courses with industry-flavored labs and strong emphasis on collaboration and testing.",
+    "viewCount": 2895,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024"
+    ]
+  },
+  {
+    "id": "quentin-hale",
+    "name": "Dr. Quentin Hale",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "rating": 3.9,
+    "difficulty": 3.8,
+    "wouldTakeAgain": 75,
+    "classIds": [
+      "CSC 3210",
+      "CSC 3320"
+    ],
+    "tags": [
+      "Systems oriented",
+      "Detailed",
+      "Project deadlines"
+    ],
+    "bio": "Dr. Hale teaches systems and databases with a practical emphasis on debugging, architecture, and disciplined lab work.",
+    "viewCount": 2025,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023"
+    ]
+  },
+  {
+    "id": "paige-nelson",
+    "name": "Prof. Paige Nelson",
+    "department": "Biology",
+    "title": "Lecturer",
+    "rating": 4.2,
+    "difficulty": 3.1,
+    "wouldTakeAgain": 82,
+    "classIds": [
+      "BIOL 2107",
+      "BIOL 1107"
+    ],
+    "tags": [
+      "Great lab demos",
+      "Visual learner friendly",
+      "Clear pacing"
+    ],
+    "bio": "Professor Nelson leads anatomy and biology courses with structured study plans and strong connections between lecture and lab.",
+    "viewCount": 1844,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023",
+      "Summer 2023"
+    ]
+  },
+  {
+    "id": "isaac-keller",
+    "name": "Dr. Isaac Keller",
+    "department": "Chemistry",
+    "title": "Assistant Professor",
+    "rating": 3.8,
+    "difficulty": 4.0,
+    "wouldTakeAgain": 69,
+    "classIds": [
+      "CHEM 1212",
+      "CHEM 1211"
+    ],
+    "tags": [
+      "Homework matters",
+      "Fast lectures",
+      "Curve helps"
+    ],
+    "bio": "Dr. Keller teaches foundational chemistry with a quantitative focus and carefully structured assessment pacing.",
+    "viewCount": 1712,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024"
+    ]
+  },
+  {
+    "id": "amelia-bryant",
+    "name": "Dr. Amelia Bryant",
+    "department": "English",
+    "title": "Associate Professor",
+    "rating": 4.6,
+    "difficulty": 2.6,
+    "wouldTakeAgain": 91,
+    "classIds": [
+      "ENGL 2110",
+      "ENGL 1102"
+    ],
+    "tags": [
+      "Feedback rich",
+      "Readable texts",
+      "Encouraging"
+    ],
+    "bio": "Dr. Bryant teaches literature and composition, helping students write with stronger evidence and clearer rhetorical choices.",
+    "viewCount": 2410,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024"
+    ]
+  },
+  {
+    "id": "colin-maddox",
+    "name": "Prof. Colin Maddox",
+    "department": "History",
+    "title": "Senior Lecturer",
+    "rating": 4.1,
+    "difficulty": 2.8,
+    "wouldTakeAgain": 83,
+    "classIds": [
+      "HIST 1111",
+      "HIST 2110"
+    ],
+    "tags": [
+      "Lots of reading",
+      "Great context",
+      "Fair quizzes"
+    ],
+    "bio": "Professor Maddox specializes in world and U.S. history surveys that balance broad coverage with memorable narratives.",
+    "viewCount": 1629,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023"
+    ]
+  },
+  {
+    "id": "fatima-diallo",
+    "name": "Dr. Fatima Diallo",
+    "department": "Political Science",
+    "title": "Assistant Professor",
+    "rating": 4.4,
+    "difficulty": 2.7,
+    "wouldTakeAgain": 88,
+    "classIds": [
+      "POLS 2401",
+      "POLS 1101"
+    ],
+    "tags": [
+      "Cares a lot",
+      "Current events",
+      "Clear expectations"
+    ],
+    "bio": "Dr. Diallo teaches comparative politics and American government with a focus on democratic institutions and civic literacy.",
+    "viewCount": 1888,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023",
+      "Summer 2023"
+    ]
+  },
+  {
+    "id": "lucas-green",
+    "name": "Prof. Lucas Green",
+    "department": "Economics",
+    "title": "Lecturer",
+    "rating": 3.9,
+    "difficulty": 3.1,
+    "wouldTakeAgain": 76,
+    "classIds": [
+      "ECON 2106",
+      "ECON 3300"
+    ],
+    "tags": [
+      "Straightforward exams",
+      "Graph heavy",
+      "Attendance useful"
+    ],
+    "bio": "Professor Green teaches economic analysis with a focus on policy reasoning and graphical intuition.",
+    "viewCount": 1571,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024"
+    ]
+  },
+  {
+    "id": "ella-ramirez",
+    "name": "Dr. Ella Ramirez",
+    "department": "Communication",
+    "title": "Assistant Professor",
+    "rating": 4.5,
+    "difficulty": 2.3,
+    "wouldTakeAgain": 90,
+    "classIds": [
+      "COMM 1100",
+      "COMM 3300"
+    ],
+    "tags": [
+      "Fun class",
+      "Helpful comments",
+      "Presentation friendly"
+    ],
+    "bio": "Dr. Ramirez teaches communication with a focus on audience analysis, confidence, and contemporary media examples.",
+    "viewCount": 1664,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024"
+    ]
+  },
+  {
+    "id": "ryan-mitchell",
+    "name": "Dr. Ryan Mitchell",
+    "department": "Sociology",
+    "title": "Professor",
+    "rating": 4.0,
+    "difficulty": 2.8,
+    "wouldTakeAgain": 79,
+    "classIds": [
+      "SOC 1101",
+      "SOC 3400"
+    ],
+    "tags": [
+      "Fair papers",
+      "Insightful",
+      "Attendance helps"
+    ],
+    "bio": "Dr. Mitchell teaches social theory and inequality with careful attention to writing clarity and evidence-based argument.",
+    "viewCount": 1498,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023"
+    ]
+  },
+  {
+    "id": "olivia-morgan",
+    "name": "Prof. Olivia Morgan",
+    "department": "Philosophy",
+    "title": "Lecturer",
+    "rating": 4.3,
+    "difficulty": 2.5,
+    "wouldTakeAgain": 84,
+    "classIds": [
+      "PHIL 2010",
+      "PHIL 2500"
+    ],
+    "tags": [
+      "Accessible readings",
+      "Open discussion",
+      "Interesting"
+    ],
+    "bio": "Professor Morgan teaches introductory philosophy and ethics, helping students build strong argumentative writing habits.",
+    "viewCount": 1444,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023",
+      "Summer 2023"
+    ]
+  },
+  {
+    "id": "charles-yu",
+    "name": "Dr. Charles Yu",
+    "department": "Statistics",
+    "title": "Associate Professor",
+    "rating": 4.2,
+    "difficulty": 3.2,
+    "wouldTakeAgain": 82,
+    "classIds": [
+      "STAT 2670",
+      "BUSA 3000"
+    ],
+    "tags": [
+      "Data driven",
+      "Clear labs",
+      "Applied"
+    ],
+    "bio": "Dr. Yu teaches statistics and analytics with a focus on modeling, dashboards, and decision quality under uncertainty.",
+    "viewCount": 2123,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024"
+    ]
+  },
+  {
+    "id": "grace-lee",
+    "name": "Dr. Grace Lee",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "rating": 4.6,
+    "difficulty": 3.4,
+    "wouldTakeAgain": 90,
+    "classIds": [
+      "CSC 1302",
+      "CSC 3320"
+    ],
+    "tags": [
+      "Project help",
+      "Excellent notes",
+      "Cares"
+    ],
+    "bio": "Dr. Lee teaches object-oriented programming and databases with a focus on maintainable code and practical schema design.",
+    "viewCount": 2714,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024"
+    ]
+  },
+  {
+    "id": "nathan-scott",
+    "name": "Prof. Nathan Scott",
+    "department": "Mathematics",
+    "title": "Lecturer",
+    "rating": 3.9,
+    "difficulty": 3.7,
+    "wouldTakeAgain": 73,
+    "classIds": [
+      "MATH 1113",
+      "MATH 2211"
+    ],
+    "tags": [
+      "Practice required",
+      "No surprises",
+      "Works examples"
+    ],
+    "bio": "Professor Scott teaches precalculus and calculus, centering repetition, notation discipline, and procedural fluency.",
+    "viewCount": 1689,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023"
+    ]
+  },
+  {
+    "id": "sarah-douglas",
+    "name": "Dr. Sarah Douglas",
+    "department": "Biology",
+    "title": "Associate Professor",
+    "rating": 4.1,
+    "difficulty": 3.5,
+    "wouldTakeAgain": 78,
+    "classIds": [
+      "BIOL 1108",
+      "BIOL 2107"
+    ],
+    "tags": [
+      "Concept heavy",
+      "Great study guides",
+      "Passionate"
+    ],
+    "bio": "Dr. Douglas teaches organismal biology and anatomy, blending lecture structure with lab-centered scientific reasoning.",
+    "viewCount": 1730,
+    "semestersTaught": [
+      "Fall 2025",
+      "Summer 2025",
+      "Spring 2025",
+      "Fall 2024",
+      "Summer 2024",
+      "Spring 2024",
+      "Fall 2023",
+      "Summer 2023"
+    ]
+  }
+]

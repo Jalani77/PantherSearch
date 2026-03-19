@@ -1,0 +1,46 @@
+{
+  "query": "Brendan J. Balint",
+  "cachedAt": "2026-03-18T21:22:00.900520Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xMjc0MDAw",
+      "firstName": "Brendan",
+      "lastName": "Walker",
+      "avgRating": 3.7,
+      "avgDifficulty": 4.2,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 20,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0xNDMyMzcx",
+      "firstName": "J. Shannon",
+      "lastName": "Neibergs",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Economics"
+    },
+    {
+      "id": "VGVhY2hlci0yNjE4NTY=",
+      "firstName": "J. Thomas",
+      "lastName": "Dickinson",
+      "avgRating": 2.1,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 5,
+      "department": "Physics"
+    },
+    {
+      "id": "VGVhY2hlci0xMTMzNzc=",
+      "firstName": "J. Mitchell",
+      "lastName": "Pickerill",
+      "avgRating": 3.3,
+      "avgDifficulty": 4.2,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 25,
+      "department": "Political Science"
+    }
+  ]
+}

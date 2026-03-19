@@ -1,0 +1,31 @@
+{
+  "query": "ACCT 8310",
+  "source": "https://www.reddit.com/search.json",
+  "cachedAt": "2026-03-18T21:31:38.197205Z",
+  "results": [
+    {
+      "id": "1ctdqv5",
+      "title": "Vlookup with sum function?",
+      "url": "https://www.reddit.com/r/excel/comments/1ctdqv5/vlookup_with_sum_function/",
+      "permalink": "/r/excel/comments/1ctdqv5/vlookup_with_sum_function/",
+      "score": 1,
+      "subreddit": "excel",
+      "createdUtc": 1715868365,
+      "author": "RedFox1228",
+      "selftext": "I am a excel user and have some basic knowledge but need some help. I am having to compare past due fees at work. I have one spreadsheet that lists the account numbers and what liabilities we have posted to that account. That figure if multiple fees are owed is a sum of those fees. \n\nIn a second workbook I have current fees past due. Meaning that should a new invoice have dropped it would not be reflected in the total in the first spreadsheet. This second workbook has the account number and lists the invoice and amount due for that invoice. To illustrate:\n\nFirst spreadsheet:\nAcct. #.                 past due fee\n1111.                       500\n1112.                       1000\n1113.                       750\netc. \n \nThe Past due fee in this spreadsheet could be a sum of 2 or more invoices. So say account 1112 could be 4 invoices of 250 each\n\nthe second workbook has a lot more information, but has the all the information as the first except the fees are separated by invoice. So it might look like:\n\nAcct #.              fee amount.            invoice #\n1111.                   500.                        123\n1112.                   250.                        345\n1112.                   250.                         456\n1112.                   250.                        789\n1112.                   250.                         0123\n1113.                  750.                         8310\n\nIt is possible that a fee has been paid so is not reconciled till the first of the next month so I could see account numbers on one but not the other and vice versa. \n\nMy task is to use the second sheet as it is not only the most current with fees but also lists all previous fees that remain unpaid. I need to use the second workbook to find if 1) new liabilities should be booked on the account or 2) a liability has been paid and part or whole of a liability needs to be removed from the account. \n\nAny help would be appreciated.  Please ask questions in the comments. I will be by my phone. \n\nThanks in advance",
+      "topComment": ""
+    },
+    {
+      "id": "14yl8gh",
+      "title": "Bank of America/Merrill Account Misaslignment",
+      "url": "https://www.reddit.com/r/mintuit/comments/14yl8gh/bank_of_americamerrill_account_misaslignment/",
+      "permalink": "/r/mintuit/comments/14yl8gh/bank_of_americamerrill_account_misaslignment/",
+      "score": 5,
+      "subreddit": "mintuit",
+      "createdUtc": 1689255724,
+      "author": "xphrellis",
+      "selftext": "Hi Minters, I've had a months-long issue with Mint and they've started telling me this is affecting multiple users - I'd like to fact check that if possible. Some background and then the **punchline/TLDR at the bottom**.\n\nI have an older connection through BOA where Merrill investments get pulled in there, instead of having to enter a separate Merrill login (Merrill actually will now pull in all BOA/outside credit cards if you have them linked into Merrill). I've had a few accounts over the years as I've switched around between different groups, so I have quite a few legitimate inactive accounts on my Mint profile. The most recent of these was in Oct 2020, when I closed previous accounts (9X64 and 9X66) and opened new ones (8310 and 8312) all under the ML umbrella.\n\nHowever in March 2023, my open account 8312 stopped syncing transactions and the BOA/ML connection for 8312 was reconnected into an older account on the Mint side (9X64, one of the previous accounts closed in Oct 2020 - if I mark that older account active now, the acct 8312 transactions I'm missing show up there). Mint seems to think the issue is with me, and I just need to keep that account listed active, but I'm a data nerd and data fidelity is extremely important to me. I'm also exporting this and using it for outside forecasting and analysis - and it's important that the information is mapped correctly there.\n\nSo **punchline/TLDR**:\n\n* Mint told me others are experiencing the same issue - is that correct for anyone here? Data streams for current accounts moved to old/inactive accounts in Mint, despite no apparent changes on the bank side\n* Has anyone gotten Intuit to fix this issue for their accounts? If so, HOW???\n\n&amp;#x200B;",
+      "topComment": ""
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "query": "Kimberly M. Johnson",
+  "cachedAt": "2026-03-19T18:25:20.197902Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yOTk4MjIy",
+      "firstName": "Kimberly ",
+      "lastName": "Klein ",
+      "avgRating": 3.7,
+      "avgDifficulty": 1.3,
+      "wouldTakeAgainPercent": 66,
+      "numRatings": 3,
+      "department": "Human Development"
+    },
+    {
+      "id": "VGVhY2hlci0xOTY5NzAx",
+      "firstName": "Kimberly",
+      "lastName": "Vincent",
+      "avgRating": 2.1,
+      "avgDifficulty": 4.4,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 5,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0xNDc4OTY2",
+      "firstName": "Kimberly",
+      "lastName": "Tremblay",
+      "avgRating": 3.4,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 5,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0xNzk2Njk0",
+      "firstName": "Kimberly",
+      "lastName": "Abdul",
+      "avgRating": 3.5,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 10,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0xNzE4NTA2",
+      "firstName": "Kimberly",
+      "lastName": "Rice",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Political Science"
+    },
+    {
+      "id": "VGVhY2hlci0zMTMzOTQ3",
+      "firstName": "Kimberly",
+      "lastName": "McBride",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Public Relations"
+    },
+    {
+      "id": "VGVhY2hlci0xMzY3NTUw",
+      "firstName": "Kimberly",
+      "lastName": "Burwick",
+      "avgRating": 3.6,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 15,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xMDMxMTEy",
+      "firstName": "Kimberly",
+      "lastName": "Lanni",
+      "avgRating": 3.1,
+      "avgDifficulty": 3.8,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 6,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0xMjM1Njg3",
+      "firstName": "Kimberly",
+      "lastName": "Rentz",
+      "avgRating": 4.7,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 3,
+      "department": "Civil & Environ Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0yOTcwNjM2",
+      "firstName": "Kimberly",
+      "lastName": "Davenport",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "Animal Science"
+    }
+  ]
+}

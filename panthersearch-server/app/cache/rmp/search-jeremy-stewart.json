@@ -1,0 +1,66 @@
+{
+  "query": "Jeremy  . Stewart",
+  "cachedAt": "2026-03-19T18:08:27.720292Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xNjIzMDUw",
+      "firstName": "Jeremy",
+      "lastName": "Egbert",
+      "avgRating": 4.8,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 3,
+      "department": "Biological Sciences"
+    },
+    {
+      "id": "VGVhY2hlci0xNDM5OTg2",
+      "firstName": "Jeremy",
+      "lastName": "Rentz",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Civil Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0yNjkyODMx",
+      "firstName": "Jeremy",
+      "lastName": "Beus",
+      "avgRating": 1.8,
+      "avgDifficulty": 4.3,
+      "wouldTakeAgainPercent": 23,
+      "numRatings": 17,
+      "department": "Management"
+    },
+    {
+      "id": "VGVhY2hlci0yOTAwOTk5",
+      "firstName": "Jeremy",
+      "lastName": "Watson",
+      "avgRating": 5.0,
+      "avgDifficulty": 1.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 4,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0yNjY3MjY4",
+      "firstName": "Jeremy",
+      "lastName": "Cox",
+      "avgRating": 4.3,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 85,
+      "numRatings": 7,
+      "department": "Management"
+    },
+    {
+      "id": "VGVhY2hlci0xNTcyNzg2",
+      "firstName": "S. C .",
+      "lastName": "Skalicky",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Not Specified"
+    }
+  ]
+}

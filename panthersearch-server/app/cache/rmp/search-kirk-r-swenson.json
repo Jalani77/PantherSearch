@@ -1,0 +1,56 @@
+{
+  "query": "Kirk R. Swenson",
+  "cachedAt": "2026-03-18T21:22:00.910744Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yNzUxODc3",
+      "firstName": "Kirk",
+      "lastName": "McAuley",
+      "avgRating": 3.0,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 33,
+      "numRatings": 3,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xMjc4NDcw",
+      "firstName": "Kirk",
+      "lastName": "Peterson",
+      "avgRating": 4.5,
+      "avgDifficulty": 3.8,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 5,
+      "department": "Chemistry"
+    },
+    {
+      "id": "VGVhY2hlci0xNTE5ODYz",
+      "firstName": "Kirk",
+      "lastName": "Reinkens",
+      "avgRating": 2.2,
+      "avgDifficulty": 3.6,
+      "wouldTakeAgainPercent": 33,
+      "numRatings": 22,
+      "department": "Electrical & Comp. Engineering"
+    },
+    {
+      "id": "VGVhY2hlci0xOTc3MDc5",
+      "firstName": "R.",
+      "lastName": "Peters",
+      "avgRating": 4.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Agriculture"
+    },
+    {
+      "id": "VGVhY2hlci00OTcyMTY=",
+      "firstName": "R. David",
+      "lastName": "Evans",
+      "avgRating": 2.9,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 30,
+      "numRatings": 30,
+      "department": "Biology"
+    }
+  ]
+}

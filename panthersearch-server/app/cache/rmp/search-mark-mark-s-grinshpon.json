@@ -1,0 +1,106 @@
+{
+  "query": "Mark (Mark) S. Grinshpon",
+  "cachedAt": "2026-03-18T21:21:29.892790Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0zODg0MDg=",
+      "firstName": "S. Marc",
+      "lastName": "Lindsey",
+      "avgRating": 4.0,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 35,
+      "department": "Business Law"
+    },
+    {
+      "id": "VGVhY2hlci0xNTcyNzg2",
+      "firstName": "S. C .",
+      "lastName": "Skalicky",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Not Specified"
+    },
+    {
+      "id": "VGVhY2hlci0yODIwNDY1",
+      "firstName": "Mark",
+      "lastName": "Billings",
+      "avgRating": 4.8,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": 95,
+      "numRatings": 21,
+      "department": "Environmental Science"
+    },
+    {
+      "id": "VGVhY2hlci05NjAyNA==",
+      "firstName": "Mark",
+      "lastName": "Dybdahl",
+      "avgRating": 2.1,
+      "avgDifficulty": 4.4,
+      "wouldTakeAgainPercent": 7,
+      "numRatings": 20,
+      "department": "Biological Sciences"
+    },
+    {
+      "id": "VGVhY2hlci0yMTM4ODM5",
+      "firstName": "Mark",
+      "lastName": "Quinn",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 2,
+      "department": "Crop Studies"
+    },
+    {
+      "id": "VGVhY2hlci0yMDk0ODAz",
+      "firstName": "Mark",
+      "lastName": "Lesperance",
+      "avgRating": 4.6,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 97,
+      "numRatings": 41,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci03NTc5MQ==",
+      "firstName": "Mark",
+      "lastName": "Schumaker",
+      "avgRating": 3.1,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 88,
+      "numRatings": 43,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0yMDMzMjg1",
+      "firstName": "Mark",
+      "lastName": "Triana",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 3,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xNjU1NDY3",
+      "firstName": "Mark",
+      "lastName": "McClure",
+      "avgRating": 4.8,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 2,
+      "department": "Natural Resources"
+    },
+    {
+      "id": "VGVhY2hlci0xMjgzMjM3",
+      "firstName": "Mark",
+      "lastName": "McGuire",
+      "avgRating": 5.0,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Molecular Biosciences"
+    }
+  ]
+}

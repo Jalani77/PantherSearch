@@ -1,0 +1,36 @@
+{
+  "query": "Victor (Victor) E. Hartman",
+  "cachedAt": "2026-03-19T18:25:20.843143Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci02NzM3NDQ=",
+      "firstName": "Victor",
+      "lastName": "Villanueva",
+      "avgRating": 4.7,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 15,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xOTE2MzM1",
+      "firstName": "Victor",
+      "lastName": "Unda",
+      "avgRating": 3.2,
+      "avgDifficulty": 3.2,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 14,
+      "department": "Information Systems"
+    },
+    {
+      "id": "VGVhY2hlci00NzAwMTY=",
+      "firstName": "Elwood",
+      "lastName": "Hartman",
+      "avgRating": 3.6,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 7,
+      "department": "Foreign Languages & Cultures"
+    }
+  ]
+}

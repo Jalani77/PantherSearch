@@ -1,0 +1,36 @@
+{
+  "query": "Galen R. Sevcik",
+  "cachedAt": "2026-03-19T18:08:27.193393Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yMzIxMzcw",
+      "firstName": "Galen",
+      "lastName": "Miller",
+      "avgRating": 5.0,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "Anthropology"
+    },
+    {
+      "id": "VGVhY2hlci0xOTc3MDc5",
+      "firstName": "R.",
+      "lastName": "Peters",
+      "avgRating": 4.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Agriculture"
+    },
+    {
+      "id": "VGVhY2hlci00OTcyMTY=",
+      "firstName": "R. David",
+      "lastName": "Evans",
+      "avgRating": 2.9,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 30,
+      "numRatings": 30,
+      "department": "Biology"
+    }
+  ]
+}

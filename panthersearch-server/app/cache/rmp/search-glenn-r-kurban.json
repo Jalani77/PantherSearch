@@ -1,0 +1,46 @@
+{
+  "query": "Glenn R. Kurban",
+  "cachedAt": "2026-03-19T18:25:19.839862Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0zOTQ2MzU=",
+      "firstName": "Glenn",
+      "lastName": "Johnson",
+      "avgRating": 3.9,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 16,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci02NDU5ODY=",
+      "firstName": "Glenn",
+      "lastName": "Crellin",
+      "avgRating": 4.1,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "Business"
+    },
+    {
+      "id": "VGVhY2hlci0xOTc3MDc5",
+      "firstName": "R.",
+      "lastName": "Peters",
+      "avgRating": 4.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Agriculture"
+    },
+    {
+      "id": "VGVhY2hlci00OTcyMTY=",
+      "firstName": "R. David",
+      "lastName": "Evans",
+      "avgRating": 2.9,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": 30,
+      "numRatings": 30,
+      "department": "Biology"
+    }
+  ]
+}

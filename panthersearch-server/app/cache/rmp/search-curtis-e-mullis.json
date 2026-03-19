@@ -1,0 +1,36 @@
+{
+  "query": "Curtis E. Mullis",
+  "cachedAt": "2026-03-19T18:08:26.100627Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yNzMyMDU2",
+      "firstName": "Curtis",
+      "lastName": "Michels",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 7,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0xNjg0MDg2",
+      "firstName": "Christine",
+      "lastName": "Curtis",
+      "avgRating": 2.4,
+      "avgDifficulty": 2.9,
+      "wouldTakeAgainPercent": 38,
+      "numRatings": 38,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0yNDc5NTU4",
+      "firstName": "Curtis",
+      "lastName": "Harty",
+      "avgRating": 3.8,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 66,
+      "numRatings": 6,
+      "department": "English"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "query": "Debra Y. Hall",
+  "cachedAt": "2026-03-18T21:24:30.160198Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yMjA0ODU3",
+      "firstName": "Debra",
+      "lastName": "Nelson",
+      "avgRating": 3.8,
+      "avgDifficulty": 2.4,
+      "wouldTakeAgainPercent": 60,
+      "numRatings": 5,
+      "department": "Human Development"
+    },
+    {
+      "id": "VGVhY2hlci0yMjI5NTIy",
+      "firstName": "Debra",
+      "lastName": "lnglis",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Plant Pathology"
+    },
+    {
+      "id": "VGVhY2hlci0xNDY1MDA0",
+      "firstName": "Sanders",
+      "lastName": "Debra",
+      "avgRating": 1.0,
+      "avgDifficulty": 2.7,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 3,
+      "department": "Accounting"
+    },
+    {
+      "id": "VGVhY2hlci0xODUyMzMy",
+      "firstName": "Debra",
+      "lastName": "O'Connell",
+      "avgRating": 4.9,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 4,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0xMTMxODYx",
+      "firstName": "Debra",
+      "lastName": "McCarver",
+      "avgRating": 4.7,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 3,
+      "department": "Entrepreneurship"
+    },
+    {
+      "id": "VGVhY2hlci0yMjA3NTIz",
+      "firstName": "Hallie",
+      "lastName": "Meredith",
+      "avgRating": 2.4,
+      "avgDifficulty": 3.1,
+      "wouldTakeAgainPercent": 31,
+      "numRatings": 41,
+      "department": "Fine Arts"
+    },
+    {
+      "id": "VGVhY2hlci0yOTU4ODI1",
+      "firstName": "Caroline",
+      "lastName": "Hall",
+      "avgRating": 4.4,
+      "avgDifficulty": 2.8,
+      "wouldTakeAgainPercent": 87,
+      "numRatings": 8,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0yMjk0NDY2",
+      "firstName": "Megan",
+      "lastName": "Hall",
+      "avgRating": 4.7,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 85,
+      "numRatings": 7,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0yMzIxNjYx",
+      "firstName": "William",
+      "lastName": "Hall",
+      "avgRating": 4.7,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 3,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0yNjk4NzY=",
+      "firstName": "Bill",
+      "lastName": "Hallagan",
+      "avgRating": 3.1,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 44,
+      "department": "Economics"
+    }
+  ]
+}

@@ -1,0 +1,6810 @@
+{
+  "BUSA 3000": {
+    "courseCode": "BUSA 3000",
+    "courseName": "Business Analytics",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.27,
+      "medianGrade": "3.0",
+      "totalStudents": 779
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 18,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 103,
+        "avgGPA": 3.16
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 16,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 90,
+        "avgGPA": 3.22
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 18,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 97,
+        "avgGPA": 3.28
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 15,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 84,
+        "avgGPA": 3.34
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 16,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 91,
+        "avgGPA": 3.4
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 14,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 78,
+        "avgGPA": 3.16
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 15,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 85,
+        "avgGPA": 3.22
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 13,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 72,
+        "avgGPA": 3.28
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 14,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 79,
+        "avgGPA": 3.34
+      }
+    ]
+  },
+  "BUSA 4800": {
+    "courseCode": "BUSA 4800",
+    "courseName": "Strategic Management",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.2,
+      "medianGrade": "3.0",
+      "totalStudents": 707
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 17,
+          "C": 7,
+          "D": 4,
+          "F": 4,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 95,
+        "avgGPA": 3.13
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 15,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 82,
+        "avgGPA": 3.19
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 15,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 3
+        },
+        "totalStudents": 89,
+        "avgGPA": 3.25
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 13,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 76,
+        "avgGPA": 3.31
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 14,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 3
+        },
+        "totalStudents": 83,
+        "avgGPA": 3.07
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 17,
+          "B": 12,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 70,
+        "avgGPA": 3.13
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 14,
+          "C": 5,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 0
+        },
+        "totalStudents": 77,
+        "avgGPA": 3.19
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 17,
+          "B": 11,
+          "C": 4,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 64,
+        "avgGPA": 3.25
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 12,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 71,
+        "avgGPA": 3.31
+      }
+    ]
+  },
+  "MKTG 3100": {
+    "courseCode": "MKTG 3100",
+    "courseName": "Marketing Principles",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.35,
+      "medianGrade": "3.0",
+      "totalStudents": 986
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 23,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 126,
+        "avgGPA": 3.34
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 20,
+          "C": 7,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 113,
+        "avgGPA": 3.4
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 21,
+          "C": 8,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 120,
+        "avgGPA": 3.46
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 19,
+          "C": 8,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 107,
+        "avgGPA": 3.22
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 21,
+          "C": 8,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 114,
+        "avgGPA": 3.28
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 19,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": -1
+        },
+        "totalStudents": 101,
+        "avgGPA": 3.34
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 19,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 108,
+        "avgGPA": 3.4
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 17,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 95,
+        "avgGPA": 3.46
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 18,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 102,
+        "avgGPA": 3.22
+      }
+    ]
+  },
+  "FI 3300": {
+    "courseCode": "FI 3300",
+    "courseName": "Financial Management",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.84,
+      "medianGrade": "3.0",
+      "totalStudents": 968
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 21,
+          "C": 10,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 0
+        },
+        "totalStudents": 124,
+        "avgGPA": 2.9
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 19,
+          "C": 9,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 111,
+        "avgGPA": 2.96
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 20,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 118,
+        "avgGPA": 2.72
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 18,
+          "C": 9,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 105,
+        "avgGPA": 2.78
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 20,
+          "C": 9,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 112,
+        "avgGPA": 2.84
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 16,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 99,
+        "avgGPA": 2.9
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 18,
+          "C": 9,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 106,
+        "avgGPA": 2.96
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 16,
+          "C": 9,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 93,
+        "avgGPA": 2.72
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 17,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 100,
+        "avgGPA": 2.78
+      }
+    ]
+  },
+  "ACCT 2101": {
+    "courseCode": "ACCT 2101",
+    "courseName": "Principles of Accounting I",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.9,
+      "medianGrade": "3.0",
+      "totalStudents": 968
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 21,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 124,
+        "avgGPA": 3.03
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 19,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 111,
+        "avgGPA": 2.79
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 26,
+          "B": 20,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 118,
+        "avgGPA": 2.85
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 19,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 105,
+        "avgGPA": 2.91
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 19,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 112,
+        "avgGPA": 2.97
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 17,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 99,
+        "avgGPA": 3.03
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 18,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 106,
+        "avgGPA": 2.79
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 16,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 93,
+        "avgGPA": 2.85
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 18,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 100,
+        "avgGPA": 2.91
+      }
+    ]
+  },
+  "ACCT 2102": {
+    "courseCode": "ACCT 2102",
+    "courseName": "Principles of Accounting II",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.85,
+      "medianGrade": "3.0",
+      "totalStudents": 860
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 19,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 112,
+        "avgGPA": 2.74
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 17,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 99,
+        "avgGPA": 2.8
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 19,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 106,
+        "avgGPA": 2.86
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 15,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 93,
+        "avgGPA": 2.92
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 17,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 100,
+        "avgGPA": 2.98
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 18,
+          "B": 15,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 87,
+        "avgGPA": 2.74
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 16,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 94,
+        "avgGPA": 2.8
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 18,
+          "B": 14,
+          "C": 7,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 3
+        },
+        "totalStudents": 81,
+        "avgGPA": 2.86
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 15,
+          "C": 7,
+          "D": 5,
+          "F": 4,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 88,
+        "avgGPA": 2.92
+      }
+    ]
+  },
+  "MGT 3100": {
+    "courseCode": "MGT 3100",
+    "courseName": "Management Principles",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.36,
+      "medianGrade": "3.0",
+      "totalStudents": 824
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 19,
+          "C": 7,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 108,
+        "avgGPA": 3.29
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 17,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 95,
+        "avgGPA": 3.35
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 18,
+          "C": 7,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 102,
+        "avgGPA": 3.41
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 16,
+          "C": 6,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 89,
+        "avgGPA": 3.47
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 17,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 96,
+        "avgGPA": 3.23
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 15,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 83,
+        "avgGPA": 3.29
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 17,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 90,
+        "avgGPA": 3.35
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 13,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 3
+        },
+        "totalStudents": 77,
+        "avgGPA": 3.41
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 15,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 84,
+        "avgGPA": 3.47
+      }
+    ]
+  },
+  "MGT 4200": {
+    "courseCode": "MGT 4200",
+    "courseName": "Strategic Management",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.13,
+      "medianGrade": "3.0",
+      "totalStudents": 617
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 15,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 3
+        },
+        "totalStudents": 85,
+        "avgGPA": 3.12
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 18,
+          "B": 12,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 3
+        },
+        "totalStudents": 72,
+        "avgGPA": 3.18
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 14,
+          "C": 6,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 79,
+        "avgGPA": 3.24
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 15,
+          "B": 11,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 66,
+        "avgGPA": 3.0
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 17,
+          "B": 13,
+          "C": 5,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 73,
+        "avgGPA": 3.06
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 15,
+          "B": 11,
+          "C": 4,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 0
+        },
+        "totalStudents": 60,
+        "avgGPA": 3.12
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 17,
+          "B": 11,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 67,
+        "avgGPA": 3.18
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 14,
+          "B": 9,
+          "C": 4,
+          "D": 2,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 54,
+        "avgGPA": 3.24
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 14,
+          "B": 11,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 0
+        },
+        "totalStudents": 61,
+        "avgGPA": 3.0
+      }
+    ]
+  },
+  "CSC 1301": {
+    "courseCode": "CSC 1301",
+    "courseName": "Introduction to Computer Science",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.21,
+      "medianGrade": "3.0",
+      "totalStudents": 1292
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 42,
+          "B": 27,
+          "C": 11,
+          "D": 7,
+          "F": 5,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 160,
+        "avgGPA": 3.27
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 40,
+          "B": 26,
+          "C": 10,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 147,
+        "avgGPA": 3.33
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 37,
+          "B": 27,
+          "C": 12,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 154,
+        "avgGPA": 3.09
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 25,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 141,
+        "avgGPA": 3.15
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 38,
+          "B": 27,
+          "C": 10,
+          "D": 7,
+          "F": 5,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 148,
+        "avgGPA": 3.21
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 36,
+          "B": 23,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 135,
+        "avgGPA": 3.27
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 39,
+          "B": 25,
+          "C": 10,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 142,
+        "avgGPA": 3.33
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 22,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 129,
+        "avgGPA": 3.09
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 24,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 136,
+        "avgGPA": 3.15
+      }
+    ]
+  },
+  "CSC 2310": {
+    "courseCode": "CSC 2310",
+    "courseName": "Principles of Computer Programming I",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.07,
+      "medianGrade": "3.0",
+      "totalStudents": 1211
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 40,
+          "B": 26,
+          "C": 11,
+          "D": 7,
+          "F": 5,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 151,
+        "avgGPA": 3.2
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 24,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 138,
+        "avgGPA": 2.96
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 26,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 145,
+        "avgGPA": 3.02
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 24,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 132,
+        "avgGPA": 3.08
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 24,
+          "C": 10,
+          "D": 7,
+          "F": 5,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 139,
+        "avgGPA": 3.14
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 22,
+          "C": 9,
+          "D": 5,
+          "F": 4,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 126,
+        "avgGPA": 3.2
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 23,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 133,
+        "avgGPA": 2.96
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 21,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 120,
+        "avgGPA": 3.02
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 23,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 127,
+        "avgGPA": 3.08
+      }
+    ]
+  },
+  "CSC 2720": {
+    "courseCode": "CSC 2720",
+    "courseName": "Data Structures",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.66,
+      "medianGrade": "3.0",
+      "totalStudents": 932
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 20,
+          "C": 12,
+          "D": 7,
+          "F": 8,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 120,
+        "avgGPA": 2.55
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 18,
+          "C": 10,
+          "D": 6,
+          "F": 7,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 107,
+        "avgGPA": 2.61
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 20,
+          "C": 10,
+          "D": 7,
+          "F": 7,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 114,
+        "avgGPA": 2.67
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 17,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 101,
+        "avgGPA": 2.73
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 18,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 108,
+        "avgGPA": 2.79
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 18,
+          "B": 16,
+          "C": 9,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 95,
+        "avgGPA": 2.55
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 17,
+          "C": 9,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 102,
+        "avgGPA": 2.61
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 18,
+          "B": 15,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 89,
+        "avgGPA": 2.67
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 16,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 96,
+        "avgGPA": 2.73
+      }
+    ]
+  },
+  "CSC 4520": {
+    "courseCode": "CSC 4520",
+    "courseName": "Design & Analysis of Algorithms",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.56,
+      "medianGrade": "3.0",
+      "totalStudents": 375
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 11,
+          "B": 10,
+          "C": 6,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": -1
+        },
+        "totalStudents": 58,
+        "avgGPA": 2.49
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 9,
+          "B": 8,
+          "C": 4,
+          "D": 3,
+          "F": 3,
+          "W": 1,
+          "WF": 1
+        },
+        "totalStudents": 45,
+        "avgGPA": 2.55
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 11,
+          "B": 8,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 1,
+          "WF": 0
+        },
+        "totalStudents": 52,
+        "avgGPA": 2.61
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 8,
+          "B": 6,
+          "C": 4,
+          "D": 2,
+          "F": 2,
+          "W": 1,
+          "WF": 2
+        },
+        "totalStudents": 39,
+        "avgGPA": 2.67
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 8,
+          "B": 8,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 1,
+          "WF": 2
+        },
+        "totalStudents": 46,
+        "avgGPA": 2.43
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 6,
+          "B": 6,
+          "C": 3,
+          "D": 2,
+          "F": 2,
+          "W": 1,
+          "WF": 1
+        },
+        "totalStudents": 33,
+        "avgGPA": 2.49
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 8,
+          "B": 7,
+          "C": 4,
+          "D": 2,
+          "F": 3,
+          "W": 1,
+          "WF": 1
+        },
+        "totalStudents": 40,
+        "avgGPA": 2.55
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 6,
+          "B": 5,
+          "C": 3,
+          "D": 2,
+          "F": 2,
+          "W": 1,
+          "WF": -2
+        },
+        "totalStudents": 28,
+        "avgGPA": 2.61
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 7,
+          "B": 6,
+          "C": 3,
+          "D": 2,
+          "F": 2,
+          "W": 1,
+          "WF": 1
+        },
+        "totalStudents": 34,
+        "avgGPA": 2.67
+      }
+    ]
+  },
+  "MATH 1111": {
+    "courseCode": "MATH 1111",
+    "courseName": "College Algebra",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.19,
+      "medianGrade": "3.0",
+      "totalStudents": 1355
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 42,
+          "B": 30,
+          "C": 12,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 1
+        },
+        "totalStudents": 167,
+        "avgGPA": 3.18
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 40,
+          "B": 26,
+          "C": 11,
+          "D": 7,
+          "F": 5,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 154,
+        "avgGPA": 3.24
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 44,
+          "B": 28,
+          "C": 11,
+          "D": 7,
+          "F": 5,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 161,
+        "avgGPA": 3.3
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 26,
+          "C": 12,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 148,
+        "avgGPA": 3.06
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 38,
+          "B": 28,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 5,
+          "WF": 2
+        },
+        "totalStudents": 155,
+        "avgGPA": 3.12
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 36,
+          "B": 26,
+          "C": 10,
+          "D": 7,
+          "F": 5,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 142,
+        "avgGPA": 3.18
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 39,
+          "B": 26,
+          "C": 10,
+          "D": 7,
+          "F": 5,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 149,
+        "avgGPA": 3.24
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 37,
+          "B": 24,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 136,
+        "avgGPA": 3.3
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 25,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 143,
+        "avgGPA": 3.06
+      }
+    ]
+  },
+  "MATH 2211": {
+    "courseCode": "MATH 2211",
+    "courseName": "Calculus I",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.74,
+      "medianGrade": "3.0",
+      "totalStudents": 1274
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 26,
+          "C": 14,
+          "D": 9,
+          "F": 8,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 158,
+        "avgGPA": 2.8
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 24,
+          "C": 12,
+          "D": 7,
+          "F": 7,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 145,
+        "avgGPA": 2.86
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 25,
+          "C": 15,
+          "D": 9,
+          "F": 9,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 152,
+        "avgGPA": 2.62
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 24,
+          "C": 12,
+          "D": 8,
+          "F": 8,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 139,
+        "avgGPA": 2.68
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 25,
+          "C": 13,
+          "D": 8,
+          "F": 8,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 146,
+        "avgGPA": 2.74
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 22,
+          "C": 12,
+          "D": 7,
+          "F": 7,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 133,
+        "avgGPA": 2.8
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 24,
+          "C": 12,
+          "D": 7,
+          "F": 7,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 140,
+        "avgGPA": 2.86
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 21,
+          "C": 12,
+          "D": 7,
+          "F": 8,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 127,
+        "avgGPA": 2.62
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 23,
+          "C": 12,
+          "D": 8,
+          "F": 8,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 134,
+        "avgGPA": 2.68
+      }
+    ]
+  },
+  "MATH 2212": {
+    "courseCode": "MATH 2212",
+    "courseName": "Calculus II",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.57,
+      "medianGrade": "3.0",
+      "totalStudents": 1103
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 23,
+          "C": 13,
+          "D": 8,
+          "F": 8,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 139,
+        "avgGPA": 2.7
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 21,
+          "C": 13,
+          "D": 8,
+          "F": 8,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 126,
+        "avgGPA": 2.46
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 22,
+          "C": 13,
+          "D": 8,
+          "F": 9,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 133,
+        "avgGPA": 2.52
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 21,
+          "C": 11,
+          "D": 7,
+          "F": 8,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 120,
+        "avgGPA": 2.58
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 26,
+          "B": 21,
+          "C": 12,
+          "D": 8,
+          "F": 7,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 127,
+        "avgGPA": 2.64
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 19,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 114,
+        "avgGPA": 2.7
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 20,
+          "C": 12,
+          "D": 8,
+          "F": 8,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 121,
+        "avgGPA": 2.46
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 18,
+          "C": 10,
+          "D": 7,
+          "F": 7,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 108,
+        "avgGPA": 2.52
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 20,
+          "C": 11,
+          "D": 7,
+          "F": 7,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 115,
+        "avgGPA": 2.58
+      }
+    ]
+  },
+  "MATH 2420": {
+    "courseCode": "MATH 2420",
+    "courseName": "Discrete Mathematics",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.8,
+      "medianGrade": "3.0",
+      "totalStudents": 788
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 17,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 104,
+        "avgGPA": 2.69
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 16,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 91,
+        "avgGPA": 2.75
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 17,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 98,
+        "avgGPA": 2.81
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 14,
+          "C": 7,
+          "D": 5,
+          "F": 4,
+          "W": 2,
+          "WF": 3
+        },
+        "totalStudents": 85,
+        "avgGPA": 2.87
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 16,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 92,
+        "avgGPA": 2.93
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 16,
+          "B": 13,
+          "C": 7,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 4
+        },
+        "totalStudents": 79,
+        "avgGPA": 2.69
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 18,
+          "B": 15,
+          "C": 7,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 86,
+        "avgGPA": 2.75
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 16,
+          "B": 13,
+          "C": 6,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 73,
+        "avgGPA": 2.81
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 18,
+          "B": 13,
+          "C": 7,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 80,
+        "avgGPA": 2.87
+      }
+    ]
+  },
+  "ENGL 1101": {
+    "courseCode": "ENGL 1101",
+    "courseName": "English Composition I",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.48,
+      "medianGrade": "3.0",
+      "totalStudents": 1733
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 56,
+          "B": 38,
+          "C": 13,
+          "D": 8,
+          "F": 5,
+          "W": 6,
+          "WF": 4
+        },
+        "totalStudents": 209,
+        "avgGPA": 3.41
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 54,
+          "B": 36,
+          "C": 12,
+          "D": 8,
+          "F": 4,
+          "W": 5,
+          "WF": 4
+        },
+        "totalStudents": 196,
+        "avgGPA": 3.47
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 58,
+          "B": 36,
+          "C": 12,
+          "D": 8,
+          "F": 4,
+          "W": 6,
+          "WF": 2
+        },
+        "totalStudents": 203,
+        "avgGPA": 3.53
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 56,
+          "B": 34,
+          "C": 11,
+          "D": 7,
+          "F": 3,
+          "W": 5,
+          "WF": 5
+        },
+        "totalStudents": 190,
+        "avgGPA": 3.59
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 51,
+          "B": 35,
+          "C": 14,
+          "D": 8,
+          "F": 5,
+          "W": 6,
+          "WF": 4
+        },
+        "totalStudents": 197,
+        "avgGPA": 3.35
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 49,
+          "B": 33,
+          "C": 12,
+          "D": 7,
+          "F": 5,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 184,
+        "avgGPA": 3.41
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 53,
+          "B": 35,
+          "C": 12,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 4
+        },
+        "totalStudents": 191,
+        "avgGPA": 3.47
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 51,
+          "B": 31,
+          "C": 11,
+          "D": 7,
+          "F": 3,
+          "W": 5,
+          "WF": 2
+        },
+        "totalStudents": 178,
+        "avgGPA": 3.53
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 55,
+          "B": 33,
+          "C": 11,
+          "D": 6,
+          "F": 3,
+          "W": 5,
+          "WF": 4
+        },
+        "totalStudents": 185,
+        "avgGPA": 3.59
+      }
+    ]
+  },
+  "ENGL 1102": {
+    "courseCode": "ENGL 1102",
+    "courseName": "English Composition II",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.43,
+      "medianGrade": "3.0",
+      "totalStudents": 1634
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 54,
+          "B": 37,
+          "C": 13,
+          "D": 8,
+          "F": 5,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 198,
+        "avgGPA": 3.42
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 52,
+          "B": 32,
+          "C": 11,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 185,
+        "avgGPA": 3.48
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 56,
+          "B": 34,
+          "C": 12,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 192,
+        "avgGPA": 3.54
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 46,
+          "B": 32,
+          "C": 13,
+          "D": 7,
+          "F": 5,
+          "W": 5,
+          "WF": 5
+        },
+        "totalStudents": 179,
+        "avgGPA": 3.3
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 49,
+          "B": 34,
+          "C": 12,
+          "D": 8,
+          "F": 5,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 186,
+        "avgGPA": 3.36
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 47,
+          "B": 32,
+          "C": 11,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 2
+        },
+        "totalStudents": 173,
+        "avgGPA": 3.42
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 51,
+          "B": 31,
+          "C": 11,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 4
+        },
+        "totalStudents": 180,
+        "avgGPA": 3.48
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 49,
+          "B": 30,
+          "C": 10,
+          "D": 6,
+          "F": 3,
+          "W": 5,
+          "WF": 2
+        },
+        "totalStudents": 167,
+        "avgGPA": 3.54
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 44,
+          "B": 31,
+          "C": 12,
+          "D": 7,
+          "F": 5,
+          "W": 5,
+          "WF": 5
+        },
+        "totalStudents": 174,
+        "avgGPA": 3.3
+      }
+    ]
+  },
+  "PSYC 1101": {
+    "courseCode": "PSYC 1101",
+    "courseName": "Introductory Psychology",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.39,
+      "medianGrade": "3.0",
+      "totalStudents": 1598
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 54,
+          "B": 34,
+          "C": 12,
+          "D": 8,
+          "F": 4,
+          "W": 5,
+          "WF": 4
+        },
+        "totalStudents": 194,
+        "avgGPA": 3.45
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 52,
+          "B": 32,
+          "C": 11,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 181,
+        "avgGPA": 3.51
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 47,
+          "B": 33,
+          "C": 13,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 6
+        },
+        "totalStudents": 188,
+        "avgGPA": 3.27
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 46,
+          "B": 32,
+          "C": 11,
+          "D": 7,
+          "F": 5,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 175,
+        "avgGPA": 3.33
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 49,
+          "B": 34,
+          "C": 12,
+          "D": 7,
+          "F": 5,
+          "W": 5,
+          "WF": 2
+        },
+        "totalStudents": 182,
+        "avgGPA": 3.39
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 47,
+          "B": 29,
+          "C": 11,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 2
+        },
+        "totalStudents": 169,
+        "avgGPA": 3.45
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 51,
+          "B": 31,
+          "C": 11,
+          "D": 6,
+          "F": 3,
+          "W": 5,
+          "WF": 4
+        },
+        "totalStudents": 176,
+        "avgGPA": 3.51
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 41,
+          "B": 29,
+          "C": 12,
+          "D": 7,
+          "F": 5,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 163,
+        "avgGPA": 3.27
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 44,
+          "B": 31,
+          "C": 11,
+          "D": 7,
+          "F": 5,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 170,
+        "avgGPA": 3.33
+      }
+    ]
+  },
+  "BIOL 1107": {
+    "courseCode": "BIOL 1107",
+    "courseName": "Principles of Biology I",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.92,
+      "medianGrade": "3.0",
+      "totalStudents": 1283
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 39,
+          "B": 27,
+          "C": 12,
+          "D": 7,
+          "F": 6,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 159,
+        "avgGPA": 3.05
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 25,
+          "C": 13,
+          "D": 8,
+          "F": 7,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 146,
+        "avgGPA": 2.81
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 27,
+          "C": 12,
+          "D": 8,
+          "F": 7,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 153,
+        "avgGPA": 2.87
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 25,
+          "C": 11,
+          "D": 7,
+          "F": 7,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 140,
+        "avgGPA": 2.93
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 25,
+          "C": 12,
+          "D": 8,
+          "F": 6,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 147,
+        "avgGPA": 2.99
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 23,
+          "C": 11,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 134,
+        "avgGPA": 3.05
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 24,
+          "C": 13,
+          "D": 8,
+          "F": 7,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 141,
+        "avgGPA": 2.81
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 22,
+          "C": 10,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 128,
+        "avgGPA": 2.87
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 24,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 135,
+        "avgGPA": 2.93
+      }
+    ]
+  },
+  "BIOL 1108": {
+    "courseCode": "BIOL 1108",
+    "courseName": "Principles of Biology II",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.88,
+      "medianGrade": "3.0",
+      "totalStudents": 1220
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 26,
+          "C": 14,
+          "D": 8,
+          "F": 8,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 152,
+        "avgGPA": 2.77
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 24,
+          "C": 12,
+          "D": 7,
+          "F": 7,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 139,
+        "avgGPA": 2.83
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 26,
+          "C": 12,
+          "D": 8,
+          "F": 7,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 146,
+        "avgGPA": 2.89
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 22,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 133,
+        "avgGPA": 2.95
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 24,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 140,
+        "avgGPA": 3.01
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 22,
+          "C": 11,
+          "D": 7,
+          "F": 7,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 127,
+        "avgGPA": 2.77
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 23,
+          "C": 11,
+          "D": 7,
+          "F": 7,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 134,
+        "avgGPA": 2.83
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 21,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 121,
+        "avgGPA": 2.89
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 21,
+          "C": 10,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 128,
+        "avgGPA": 2.95
+      }
+    ]
+  },
+  "CHEM 1211": {
+    "courseCode": "CHEM 1211",
+    "courseName": "Chemistry I",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.62,
+      "medianGrade": "3.0",
+      "totalStudents": 1337
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 28,
+          "C": 15,
+          "D": 10,
+          "F": 11,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 165,
+        "avgGPA": 2.55
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 26,
+          "C": 14,
+          "D": 9,
+          "F": 9,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 152,
+        "avgGPA": 2.61
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 26,
+          "C": 15,
+          "D": 9,
+          "F": 9,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 159,
+        "avgGPA": 2.67
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 24,
+          "C": 13,
+          "D": 8,
+          "F": 8,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 146,
+        "avgGPA": 2.73
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 25,
+          "C": 16,
+          "D": 9,
+          "F": 10,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 153,
+        "avgGPA": 2.49
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 24,
+          "C": 13,
+          "D": 9,
+          "F": 9,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 140,
+        "avgGPA": 2.55
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 25,
+          "C": 14,
+          "D": 9,
+          "F": 9,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 147,
+        "avgGPA": 2.61
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 22,
+          "C": 12,
+          "D": 8,
+          "F": 7,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 134,
+        "avgGPA": 2.67
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 23,
+          "C": 13,
+          "D": 8,
+          "F": 8,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 141,
+        "avgGPA": 2.73
+      }
+    ]
+  },
+  "HIST 2110": {
+    "courseCode": "HIST 2110",
+    "courseName": "Survey of United States History I",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.34,
+      "medianGrade": "3.0",
+      "totalStudents": 1202
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 40,
+          "B": 27,
+          "C": 10,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 150,
+        "avgGPA": 3.33
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 38,
+          "B": 24,
+          "C": 9,
+          "D": 6,
+          "F": 3,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 137,
+        "avgGPA": 3.39
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 41,
+          "B": 25,
+          "C": 9,
+          "D": 5,
+          "F": 3,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 144,
+        "avgGPA": 3.45
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 23,
+          "C": 10,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 131,
+        "avgGPA": 3.21
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 25,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 138,
+        "avgGPA": 3.27
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 23,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 125,
+        "avgGPA": 3.33
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 36,
+          "B": 23,
+          "C": 9,
+          "D": 5,
+          "F": 3,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 132,
+        "avgGPA": 3.39
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 21,
+          "C": 8,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 119,
+        "avgGPA": 3.45
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 22,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 126,
+        "avgGPA": 3.21
+      }
+    ]
+  },
+  "POLS 1101": {
+    "courseCode": "POLS 1101",
+    "courseName": "American Government",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.31,
+      "medianGrade": "3.0",
+      "totalStudents": 1661
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 55,
+          "B": 35,
+          "C": 13,
+          "D": 8,
+          "F": 5,
+          "W": 6,
+          "WF": 2
+        },
+        "totalStudents": 201,
+        "avgGPA": 3.37
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 53,
+          "B": 33,
+          "C": 12,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 6
+        },
+        "totalStudents": 188,
+        "avgGPA": 3.43
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 48,
+          "B": 34,
+          "C": 15,
+          "D": 9,
+          "F": 7,
+          "W": 6,
+          "WF": 4
+        },
+        "totalStudents": 195,
+        "avgGPA": 3.19
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 46,
+          "B": 33,
+          "C": 12,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 182,
+        "avgGPA": 3.25
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 50,
+          "B": 35,
+          "C": 13,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 2
+        },
+        "totalStudents": 189,
+        "avgGPA": 3.31
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 48,
+          "B": 30,
+          "C": 12,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 176,
+        "avgGPA": 3.37
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 52,
+          "B": 32,
+          "C": 12,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 4
+        },
+        "totalStudents": 183,
+        "avgGPA": 3.43
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 42,
+          "B": 30,
+          "C": 13,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 170,
+        "avgGPA": 3.19
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 45,
+          "B": 32,
+          "C": 12,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 177,
+        "avgGPA": 3.25
+      }
+    ]
+  },
+  "ECON 2106": {
+    "courseCode": "ECON 2106",
+    "courseName": "Principles of Microeconomics",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.97,
+      "medianGrade": "3.0",
+      "totalStudents": 1364
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 42,
+          "B": 29,
+          "C": 13,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 168,
+        "avgGPA": 3.1
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 26,
+          "C": 13,
+          "D": 8,
+          "F": 8,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 155,
+        "avgGPA": 2.86
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 37,
+          "B": 28,
+          "C": 13,
+          "D": 8,
+          "F": 8,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 162,
+        "avgGPA": 2.92
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 27,
+          "C": 12,
+          "D": 8,
+          "F": 7,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 149,
+        "avgGPA": 2.98
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 38,
+          "B": 26,
+          "C": 12,
+          "D": 8,
+          "F": 6,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 156,
+        "avgGPA": 3.04
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 36,
+          "B": 25,
+          "C": 11,
+          "D": 7,
+          "F": 5,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 143,
+        "avgGPA": 3.1
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 26,
+          "C": 13,
+          "D": 8,
+          "F": 7,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 150,
+        "avgGPA": 2.86
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 24,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 137,
+        "avgGPA": 2.92
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 26,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 144,
+        "avgGPA": 2.98
+      }
+    ]
+  },
+  "ECON 2105": {
+    "courseCode": "ECON 2105",
+    "courseName": "Principles of Macroeconomics",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.03,
+      "medianGrade": "3.0",
+      "totalStudents": 1067
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 23,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 135,
+        "avgGPA": 2.92
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 21,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 122,
+        "avgGPA": 2.98
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 23,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 129,
+        "avgGPA": 3.04
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 20,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 116,
+        "avgGPA": 3.1
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 21,
+          "C": 9,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 123,
+        "avgGPA": 3.16
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 19,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 110,
+        "avgGPA": 2.92
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 21,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 117,
+        "avgGPA": 2.98
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 19,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 104,
+        "avgGPA": 3.04
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 19,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 111,
+        "avgGPA": 3.1
+      }
+    ]
+  },
+  "COMM 1100": {
+    "courseCode": "COMM 1100",
+    "courseName": "Public Speaking",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.62,
+      "medianGrade": "3.5",
+      "totalStudents": 1265
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 44,
+          "B": 29,
+          "C": 9,
+          "D": 6,
+          "F": 3,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 157,
+        "avgGPA": 3.55
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 42,
+          "B": 27,
+          "C": 8,
+          "D": 5,
+          "F": 2,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 144,
+        "avgGPA": 3.61
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 45,
+          "B": 27,
+          "C": 8,
+          "D": 5,
+          "F": 2,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 151,
+        "avgGPA": 3.67
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 43,
+          "B": 25,
+          "C": 7,
+          "D": 4,
+          "F": 1,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 138,
+        "avgGPA": 3.73
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 39,
+          "B": 26,
+          "C": 9,
+          "D": 5,
+          "F": 3,
+          "W": 4,
+          "WF": 5
+        },
+        "totalStudents": 145,
+        "avgGPA": 3.49
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 37,
+          "B": 24,
+          "C": 8,
+          "D": 5,
+          "F": 2,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 132,
+        "avgGPA": 3.55
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 40,
+          "B": 26,
+          "C": 8,
+          "D": 5,
+          "F": 2,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 139,
+        "avgGPA": 3.61
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 38,
+          "B": 22,
+          "C": 7,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 126,
+        "avgGPA": 3.67
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 41,
+          "B": 24,
+          "C": 7,
+          "D": 4,
+          "F": 1,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 133,
+        "avgGPA": 3.73
+      }
+    ]
+  },
+  "SOC 1101": {
+    "courseCode": "SOC 1101",
+    "courseName": "Introduction to Sociology",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.47,
+      "medianGrade": "3.0",
+      "totalStudents": 1382
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 47,
+          "B": 31,
+          "C": 11,
+          "D": 7,
+          "F": 4,
+          "W": 5,
+          "WF": 1
+        },
+        "totalStudents": 170,
+        "avgGPA": 3.46
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 45,
+          "B": 28,
+          "C": 10,
+          "D": 6,
+          "F": 3,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 157,
+        "avgGPA": 3.52
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 48,
+          "B": 29,
+          "C": 10,
+          "D": 6,
+          "F": 3,
+          "W": 5,
+          "WF": 2
+        },
+        "totalStudents": 164,
+        "avgGPA": 3.58
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 39,
+          "B": 27,
+          "C": 10,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 5
+        },
+        "totalStudents": 151,
+        "avgGPA": 3.34
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 42,
+          "B": 29,
+          "C": 10,
+          "D": 6,
+          "F": 4,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 158,
+        "avgGPA": 3.4
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 40,
+          "B": 27,
+          "C": 9,
+          "D": 6,
+          "F": 3,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 145,
+        "avgGPA": 3.46
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 43,
+          "B": 27,
+          "C": 9,
+          "D": 6,
+          "F": 3,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 152,
+        "avgGPA": 3.52
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 41,
+          "B": 25,
+          "C": 8,
+          "D": 5,
+          "F": 2,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 139,
+        "avgGPA": 3.58
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 38,
+          "B": 26,
+          "C": 10,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 146,
+        "avgGPA": 3.34
+      }
+    ]
+  },
+  "PHIL 2010": {
+    "courseCode": "PHIL 2010",
+    "courseName": "Introduction to Philosophy",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.36,
+      "medianGrade": "3.0",
+      "totalStudents": 887
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 20,
+          "C": 7,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 115,
+        "avgGPA": 3.42
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 18,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 102,
+        "avgGPA": 3.48
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 19,
+          "C": 8,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 109,
+        "avgGPA": 3.24
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 17,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 96,
+        "avgGPA": 3.3
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 19,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 103,
+        "avgGPA": 3.36
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 16,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 90,
+        "avgGPA": 3.42
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 17,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 97,
+        "avgGPA": 3.48
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 15,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 84,
+        "avgGPA": 3.24
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 16,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 91,
+        "avgGPA": 3.3
+      }
+    ]
+  },
+  "STAT 2670": {
+    "courseCode": "STAT 2670",
+    "courseName": "Elementary Statistics",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.16,
+      "medianGrade": "3.0",
+      "totalStudents": 1562
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 51,
+          "B": 33,
+          "C": 13,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 4
+        },
+        "totalStudents": 190,
+        "avgGPA": 3.29
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 41,
+          "B": 31,
+          "C": 14,
+          "D": 8,
+          "F": 7,
+          "W": 5,
+          "WF": 6
+        },
+        "totalStudents": 177,
+        "avgGPA": 3.05
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 45,
+          "B": 33,
+          "C": 13,
+          "D": 9,
+          "F": 7,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 184,
+        "avgGPA": 3.11
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 43,
+          "B": 31,
+          "C": 12,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 2
+        },
+        "totalStudents": 171,
+        "avgGPA": 3.17
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 46,
+          "B": 30,
+          "C": 13,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 2
+        },
+        "totalStudents": 178,
+        "avgGPA": 3.23
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 45,
+          "B": 29,
+          "C": 12,
+          "D": 7,
+          "F": 5,
+          "W": 5,
+          "WF": 0
+        },
+        "totalStudents": 165,
+        "avgGPA": 3.29
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 40,
+          "B": 30,
+          "C": 14,
+          "D": 8,
+          "F": 7,
+          "W": 5,
+          "WF": 4
+        },
+        "totalStudents": 172,
+        "avgGPA": 3.05
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 39,
+          "B": 28,
+          "C": 12,
+          "D": 7,
+          "F": 6,
+          "W": 5,
+          "WF": 3
+        },
+        "totalStudents": 159,
+        "avgGPA": 3.11
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 42,
+          "B": 30,
+          "C": 12,
+          "D": 8,
+          "F": 6,
+          "W": 5,
+          "WF": 1
+        },
+        "totalStudents": 166,
+        "avgGPA": 3.17
+      }
+    ]
+  },
+  "CSC 1302": {
+    "courseCode": "CSC 1302",
+    "courseName": "Principles of Computer Programming II",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.95,
+      "medianGrade": "3.0",
+      "totalStudents": 1013
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 22,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 129,
+        "avgGPA": 2.84
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 26,
+          "B": 20,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 116,
+        "avgGPA": 2.9
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 22,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 123,
+        "avgGPA": 2.96
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 18,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 110,
+        "avgGPA": 3.02
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 20,
+          "C": 9,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 5
+        },
+        "totalStudents": 117,
+        "avgGPA": 3.08
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 18,
+          "C": 9,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 104,
+        "avgGPA": 2.84
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 19,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 111,
+        "avgGPA": 2.9
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 17,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 98,
+        "avgGPA": 2.96
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 18,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 105,
+        "avgGPA": 3.02
+      }
+    ]
+  },
+  "CSC 3210": {
+    "courseCode": "CSC 3210",
+    "courseName": "Computer Organization & Programming",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.73,
+      "medianGrade": "3.0",
+      "totalStudents": 824
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 18,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 108,
+        "avgGPA": 2.66
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 16,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 95,
+        "avgGPA": 2.72
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 17,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 102,
+        "avgGPA": 2.78
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 15,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 89,
+        "avgGPA": 2.84
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 16,
+          "C": 9,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 96,
+        "avgGPA": 2.6
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 17,
+          "B": 14,
+          "C": 7,
+          "D": 5,
+          "F": 5,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 83,
+        "avgGPA": 2.66
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 16,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 90,
+        "avgGPA": 2.72
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 17,
+          "B": 13,
+          "C": 7,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 77,
+        "avgGPA": 2.78
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 14,
+          "C": 7,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 4
+        },
+        "totalStudents": 84,
+        "avgGPA": 2.84
+      }
+    ]
+  },
+  "CSC 3320": {
+    "courseCode": "CSC 3320",
+    "courseName": "System-Level Programming",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.7,
+      "medianGrade": "3.0",
+      "totalStudents": 500
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 15,
+          "B": 12,
+          "C": 6,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 72,
+        "avgGPA": 2.69
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 13,
+          "B": 10,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 59,
+        "avgGPA": 2.75
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 15,
+          "B": 11,
+          "C": 6,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 66,
+        "avgGPA": 2.81
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 10,
+          "B": 9,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 53,
+        "avgGPA": 2.57
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 12,
+          "B": 10,
+          "C": 5,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 0
+        },
+        "totalStudents": 60,
+        "avgGPA": 2.63
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 10,
+          "B": 8,
+          "C": 4,
+          "D": 3,
+          "F": 3,
+          "W": 1,
+          "WF": 1
+        },
+        "totalStudents": 47,
+        "avgGPA": 2.69
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 12,
+          "B": 9,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 0
+        },
+        "totalStudents": 54,
+        "avgGPA": 2.75
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 9,
+          "B": 7,
+          "C": 4,
+          "D": 2,
+          "F": 2,
+          "W": 1,
+          "WF": 1
+        },
+        "totalStudents": 41,
+        "avgGPA": 2.81
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 9,
+          "B": 8,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 1,
+          "WF": 1
+        },
+        "totalStudents": 48,
+        "avgGPA": 2.57
+      }
+    ]
+  },
+  "MATH 1113": {
+    "courseCode": "MATH 1113",
+    "courseName": "Precalculus",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.94,
+      "medianGrade": "3.0",
+      "totalStudents": 1193
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 36,
+          "B": 25,
+          "C": 12,
+          "D": 8,
+          "F": 6,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 149,
+        "avgGPA": 3.0
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 23,
+          "C": 11,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 136,
+        "avgGPA": 3.06
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 24,
+          "C": 13,
+          "D": 8,
+          "F": 7,
+          "W": 4,
+          "WF": 4
+        },
+        "totalStudents": 143,
+        "avgGPA": 2.82
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 23,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 130,
+        "avgGPA": 2.88
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 24,
+          "C": 11,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 137,
+        "avgGPA": 2.94
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 21,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 124,
+        "avgGPA": 3.0
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 22,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 131,
+        "avgGPA": 3.06
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 20,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 118,
+        "avgGPA": 2.82
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 22,
+          "C": 10,
+          "D": 7,
+          "F": 6,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 125,
+        "avgGPA": 2.88
+      }
+    ]
+  },
+  "BIOL 2107": {
+    "courseCode": "BIOL 2107",
+    "courseName": "Human Anatomy and Physiology I",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.76,
+      "medianGrade": "3.0",
+      "totalStudents": 932
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 20,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 120,
+        "avgGPA": 2.89
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 18,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 107,
+        "avgGPA": 2.65
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 19,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 114,
+        "avgGPA": 2.71
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 18,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 101,
+        "avgGPA": 2.77
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 18,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 108,
+        "avgGPA": 2.83
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 16,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 95,
+        "avgGPA": 2.89
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 17,
+          "C": 10,
+          "D": 6,
+          "F": 6,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 102,
+        "avgGPA": 2.65
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 18,
+          "B": 15,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 89,
+        "avgGPA": 2.71
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 17,
+          "C": 8,
+          "D": 5,
+          "F": 5,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 96,
+        "avgGPA": 2.77
+      }
+    ]
+  },
+  "CHEM 1212": {
+    "courseCode": "CHEM 1212",
+    "courseName": "Chemistry II",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.56,
+      "medianGrade": "3.0",
+      "totalStudents": 1139
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 26,
+          "B": 23,
+          "C": 15,
+          "D": 9,
+          "F": 10,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 143,
+        "avgGPA": 2.45
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 22,
+          "C": 12,
+          "D": 8,
+          "F": 9,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 130,
+        "avgGPA": 2.51
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 23,
+          "C": 13,
+          "D": 8,
+          "F": 9,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 137,
+        "avgGPA": 2.57
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 25,
+          "B": 20,
+          "C": 12,
+          "D": 8,
+          "F": 7,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 124,
+        "avgGPA": 2.63
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 22,
+          "C": 12,
+          "D": 7,
+          "F": 7,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 131,
+        "avgGPA": 2.69
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 21,
+          "B": 19,
+          "C": 12,
+          "D": 7,
+          "F": 8,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 118,
+        "avgGPA": 2.45
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 21,
+          "C": 12,
+          "D": 8,
+          "F": 8,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 125,
+        "avgGPA": 2.51
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 22,
+          "B": 19,
+          "C": 11,
+          "D": 7,
+          "F": 7,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 112,
+        "avgGPA": 2.57
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 19,
+          "C": 11,
+          "D": 7,
+          "F": 7,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 119,
+        "avgGPA": 2.63
+      }
+    ]
+  },
+  "HIST 2111": {
+    "courseCode": "HIST 2111",
+    "courseName": "Survey of United States History II",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.3,
+      "medianGrade": "3.0",
+      "totalStudents": 1166
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 37,
+          "B": 26,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 146,
+        "avgGPA": 3.23
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 24,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 133,
+        "avgGPA": 3.29
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 38,
+          "B": 24,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 140,
+        "avgGPA": 3.35
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 36,
+          "B": 22,
+          "C": 8,
+          "D": 5,
+          "F": 3,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 127,
+        "avgGPA": 3.41
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 24,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 134,
+        "avgGPA": 3.17
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 22,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 121,
+        "avgGPA": 3.23
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 23,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 128,
+        "avgGPA": 3.29
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 20,
+          "C": 8,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 115,
+        "avgGPA": 3.35
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 34,
+          "B": 22,
+          "C": 8,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 122,
+        "avgGPA": 3.41
+      }
+    ]
+  },
+  "HIST 1111": {
+    "courseCode": "HIST 1111",
+    "courseName": "World History to 1500",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.24,
+      "medianGrade": "3.0",
+      "totalStudents": 1139
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 37,
+          "B": 26,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 143,
+        "avgGPA": 3.23
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 22,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 4,
+          "WF": 0
+        },
+        "totalStudents": 130,
+        "avgGPA": 3.29
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 38,
+          "B": 24,
+          "C": 9,
+          "D": 5,
+          "F": 4,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 137,
+        "avgGPA": 3.35
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 22,
+          "C": 10,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 1
+        },
+        "totalStudents": 124,
+        "avgGPA": 3.11
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 23,
+          "C": 9,
+          "D": 6,
+          "F": 5,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 131,
+        "avgGPA": 3.17
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 21,
+          "C": 8,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 118,
+        "avgGPA": 3.23
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 22,
+          "C": 9,
+          "D": 5,
+          "F": 4,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 125,
+        "avgGPA": 3.29
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 20,
+          "C": 8,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 112,
+        "avgGPA": 3.35
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 21,
+          "C": 9,
+          "D": 6,
+          "F": 4,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 119,
+        "avgGPA": 3.11
+      }
+    ]
+  },
+  "POLS 2401": {
+    "courseCode": "POLS 2401",
+    "courseName": "Global Issues",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.37,
+      "medianGrade": "3.0",
+      "totalStudents": 1058
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 37,
+          "B": 23,
+          "C": 9,
+          "D": 5,
+          "F": 3,
+          "W": 4,
+          "WF": 2
+        },
+        "totalStudents": 134,
+        "avgGPA": 3.43
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 21,
+          "C": 8,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 121,
+        "avgGPA": 3.49
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 23,
+          "C": 9,
+          "D": 5,
+          "F": 4,
+          "W": 4,
+          "WF": 3
+        },
+        "totalStudents": 128,
+        "avgGPA": 3.25
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 21,
+          "C": 8,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 115,
+        "avgGPA": 3.31
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 22,
+          "C": 8,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 122,
+        "avgGPA": 3.37
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 30,
+          "B": 19,
+          "C": 7,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 109,
+        "avgGPA": 3.43
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 21,
+          "C": 7,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 4
+        },
+        "totalStudents": 116,
+        "avgGPA": 3.49
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 26,
+          "B": 18,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 103,
+        "avgGPA": 3.25
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 20,
+          "C": 7,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 110,
+        "avgGPA": 3.31
+      }
+    ]
+  },
+  "ECON 3300": {
+    "courseCode": "ECON 3300",
+    "courseName": "Intermediate Microeconomics",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 2.72,
+      "medianGrade": "3.0",
+      "totalStudents": 572
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 18,
+          "B": 13,
+          "C": 7,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 80,
+        "avgGPA": 2.85
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 13,
+          "B": 11,
+          "C": 6,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 67,
+        "avgGPA": 2.61
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 15,
+          "B": 13,
+          "C": 7,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 74,
+        "avgGPA": 2.67
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 13,
+          "B": 11,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 61,
+        "avgGPA": 2.73
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 15,
+          "B": 11,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 68,
+        "avgGPA": 2.79
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 13,
+          "B": 9,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 0
+        },
+        "totalStudents": 55,
+        "avgGPA": 2.85
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 12,
+          "B": 10,
+          "C": 6,
+          "D": 4,
+          "F": 4,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 62,
+        "avgGPA": 2.61
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 10,
+          "B": 8,
+          "C": 4,
+          "D": 3,
+          "F": 3,
+          "W": 1,
+          "WF": 2
+        },
+        "totalStudents": 49,
+        "avgGPA": 2.67
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 12,
+          "B": 10,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": -1
+        },
+        "totalStudents": 56,
+        "avgGPA": 2.73
+      }
+    ]
+  },
+  "COMM 3300": {
+    "courseCode": "COMM 3300",
+    "courseName": "Interpersonal Communication",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.57,
+      "medianGrade": "3.0",
+      "totalStudents": 761
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 18,
+          "C": 7,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 101,
+        "avgGPA": 3.46
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 16,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 4
+        },
+        "totalStudents": 88,
+        "avgGPA": 3.52
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 18,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 95,
+        "avgGPA": 3.58
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 15,
+          "C": 5,
+          "D": 3,
+          "F": 1,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 82,
+        "avgGPA": 3.64
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 16,
+          "C": 5,
+          "D": 3,
+          "F": 1,
+          "W": 2,
+          "WF": 3
+        },
+        "totalStudents": 89,
+        "avgGPA": 3.7
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 14,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 76,
+        "avgGPA": 3.46
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 15,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 3
+        },
+        "totalStudents": 83,
+        "avgGPA": 3.52
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 13,
+          "C": 4,
+          "D": 3,
+          "F": 1,
+          "W": 2,
+          "WF": 0
+        },
+        "totalStudents": 70,
+        "avgGPA": 3.58
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 14,
+          "C": 4,
+          "D": 3,
+          "F": 1,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 77,
+        "avgGPA": 3.64
+      }
+    ]
+  },
+  "SOC 3400": {
+    "courseCode": "SOC 3400",
+    "courseName": "Social Inequality",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.42,
+      "medianGrade": "3.0",
+      "totalStudents": 626
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 16,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 86,
+        "avgGPA": 3.35
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 13,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 73,
+        "avgGPA": 3.41
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 14,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 80,
+        "avgGPA": 3.47
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 12,
+          "C": 4,
+          "D": 2,
+          "F": 1,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 67,
+        "avgGPA": 3.53
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 13,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 3
+        },
+        "totalStudents": 74,
+        "avgGPA": 3.29
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 16,
+          "B": 11,
+          "C": 4,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 0
+        },
+        "totalStudents": 61,
+        "avgGPA": 3.35
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 13,
+          "C": 4,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": -1
+        },
+        "totalStudents": 68,
+        "avgGPA": 3.41
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 15,
+          "B": 10,
+          "C": 3,
+          "D": 2,
+          "F": 1,
+          "W": 1,
+          "WF": 2
+        },
+        "totalStudents": 55,
+        "avgGPA": 3.47
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 18,
+          "B": 11,
+          "C": 4,
+          "D": 2,
+          "F": 1,
+          "W": 2,
+          "WF": 0
+        },
+        "totalStudents": 62,
+        "avgGPA": 3.53
+      }
+    ]
+  },
+  "PHIL 2500": {
+    "courseCode": "PHIL 2500",
+    "courseName": "Critical Thinking",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.53,
+      "medianGrade": "3.0",
+      "totalStudents": 995
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 36,
+          "B": 24,
+          "C": 8,
+          "D": 5,
+          "F": 3,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 127,
+        "avgGPA": 3.52
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 33,
+          "B": 20,
+          "C": 7,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 114,
+        "avgGPA": 3.58
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 36,
+          "B": 22,
+          "C": 7,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 121,
+        "avgGPA": 3.64
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 19,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 108,
+        "avgGPA": 3.4
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 21,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 115,
+        "avgGPA": 3.46
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 19,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 102,
+        "avgGPA": 3.52
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 32,
+          "B": 19,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 109,
+        "avgGPA": 3.58
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 29,
+          "B": 17,
+          "C": 6,
+          "D": 3,
+          "F": 1,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 96,
+        "avgGPA": 3.64
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 18,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 103,
+        "avgGPA": 3.4
+      }
+    ]
+  },
+  "PSYC 3140": {
+    "courseCode": "PSYC 3140",
+    "courseName": "Cognitive Psychology",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.18,
+      "medianGrade": "3.0",
+      "totalStudents": 644
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 15,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 88,
+        "avgGPA": 3.24
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 13,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 75,
+        "avgGPA": 3.3
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 14,
+          "C": 6,
+          "D": 4,
+          "F": 3,
+          "W": 2,
+          "WF": 4
+        },
+        "totalStudents": 82,
+        "avgGPA": 3.06
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 17,
+          "B": 12,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 69,
+        "avgGPA": 3.12
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 14,
+          "C": 5,
+          "D": 3,
+          "F": 3,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 76,
+        "avgGPA": 3.18
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 16,
+          "B": 11,
+          "C": 4,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 63,
+        "avgGPA": 3.24
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 19,
+          "B": 12,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 70,
+        "avgGPA": 3.3
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 13,
+          "B": 10,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 57,
+        "avgGPA": 3.06
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 16,
+          "B": 11,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 64,
+        "avgGPA": 3.12
+      }
+    ]
+  },
+  "ENGL 2110": {
+    "courseCode": "ENGL 2110",
+    "courseName": "World Literature",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.48,
+      "medianGrade": "3.0",
+      "totalStudents": 923
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 35,
+          "B": 21,
+          "C": 7,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 119,
+        "avgGPA": 3.61
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 19,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 106,
+        "avgGPA": 3.37
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 21,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 113,
+        "avgGPA": 3.43
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 19,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 100,
+        "avgGPA": 3.49
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 31,
+          "B": 19,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 107,
+        "avgGPA": 3.55
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 28,
+          "B": 17,
+          "C": 5,
+          "D": 3,
+          "F": 1,
+          "W": 3,
+          "WF": 1
+        },
+        "totalStudents": 94,
+        "avgGPA": 3.61
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 26,
+          "B": 18,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 101,
+        "avgGPA": 3.37
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 16,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 88,
+        "avgGPA": 3.43
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 18,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": -1
+        },
+        "totalStudents": 95,
+        "avgGPA": 3.49
+      }
+    ]
+  },
+  "MKTG 4100": {
+    "courseCode": "MKTG 4100",
+    "courseName": "Digital Marketing Strategy",
+    "cachedAt": "seeded",
+    "source": "local-seed",
+    "summary": {
+      "avgGPA": 3.42,
+      "medianGrade": "3.0",
+      "totalStudents": 788
+    },
+    "semesters": [
+      {
+        "term": "Fall 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 18,
+          "C": 7,
+          "D": 4,
+          "F": 3,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 104,
+        "avgGPA": 3.31
+      },
+      {
+        "term": "Summer 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 16,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 3
+        },
+        "totalStudents": 91,
+        "avgGPA": 3.37
+      },
+      {
+        "term": "Spring 2025",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 18,
+          "C": 6,
+          "D": 4,
+          "F": 2,
+          "W": 3,
+          "WF": 2
+        },
+        "totalStudents": 98,
+        "avgGPA": 3.43
+      },
+      {
+        "term": "Fall 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 24,
+          "B": 15,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 85,
+        "avgGPA": 3.49
+      },
+      {
+        "term": "Summer 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 27,
+          "B": 16,
+          "C": 6,
+          "D": 3,
+          "F": 2,
+          "W": 3,
+          "WF": 0
+        },
+        "totalStudents": 92,
+        "avgGPA": 3.55
+      },
+      {
+        "term": "Spring 2024",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 14,
+          "C": 6,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 79,
+        "avgGPA": 3.31
+      },
+      {
+        "term": "Fall 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 16,
+          "C": 5,
+          "D": 4,
+          "F": 2,
+          "W": 2,
+          "WF": 2
+        },
+        "totalStudents": 86,
+        "avgGPA": 3.37
+      },
+      {
+        "term": "Summer 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 20,
+          "B": 13,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 73,
+        "avgGPA": 3.43
+      },
+      {
+        "term": "Spring 2023",
+        "instructor": "Multiple Instructors",
+        "gradeDistribution": {
+          "A": 23,
+          "B": 14,
+          "C": 5,
+          "D": 3,
+          "F": 2,
+          "W": 2,
+          "WF": 1
+        },
+        "totalStudents": 80,
+        "avgGPA": 3.49
+      }
+    ]
+  }
+}

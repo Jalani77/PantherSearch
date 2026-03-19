@@ -1,0 +1,66 @@
+{
+  "query": "April (April) S. Davenport",
+  "cachedAt": "2026-03-18T21:22:00.590311Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yOTAwNTc2",
+      "firstName": "April",
+      "lastName": "Kraft-Duley",
+      "avgRating": 4.5,
+      "avgDifficulty": 3.5,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 2,
+      "department": "Criminal Justice"
+    },
+    {
+      "id": "VGVhY2hlci0xNjQ2NTgy",
+      "firstName": "April",
+      "lastName": "Strawn",
+      "avgRating": 4.8,
+      "avgDifficulty": 1.7,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 14,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0zODg0MDg=",
+      "firstName": "S. Marc",
+      "lastName": "Lindsey",
+      "avgRating": 4.0,
+      "avgDifficulty": 1.9,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 35,
+      "department": "Business Law"
+    },
+    {
+      "id": "VGVhY2hlci0xNTcyNzg2",
+      "firstName": "S. C .",
+      "lastName": "Skalicky",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Not Specified"
+    },
+    {
+      "id": "VGVhY2hlci0yOTcwNjM2",
+      "firstName": "Kimberly",
+      "lastName": "Davenport",
+      "avgRating": 5.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 1,
+      "department": "Animal Science"
+    },
+    {
+      "id": "VGVhY2hlci0xNjI1MTE4",
+      "firstName": "Joan",
+      "lastName": "Davenport",
+      "avgRating": 4.5,
+      "avgDifficulty": 3.7,
+      "wouldTakeAgainPercent": 100,
+      "numRatings": 3,
+      "department": "Science"
+    }
+  ]
+}

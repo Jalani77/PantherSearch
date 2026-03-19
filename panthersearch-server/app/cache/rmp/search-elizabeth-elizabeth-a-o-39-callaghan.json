@@ -1,0 +1,106 @@
+{
+  "query": "Elizabeth (Elizabeth) A. O&#39;Callaghan",
+  "cachedAt": "2026-03-18T21:31:25.864088Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0yMTI2OTIy",
+      "firstName": "Elizabeth",
+      "lastName": "Lampman",
+      "avgRating": 3.8,
+      "avgDifficulty": 1.3,
+      "wouldTakeAgainPercent": 50,
+      "numRatings": 3,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0yNzM1NzEx",
+      "firstName": "Elizabeth",
+      "lastName": "Chambers",
+      "avgRating": 1.0,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 1,
+      "department": "Communication"
+    },
+    {
+      "id": "VGVhY2hlci0xNjI1MTA5",
+      "firstName": "Elizabeth",
+      "lastName": "Hattenburg",
+      "avgRating": 3.0,
+      "avgDifficulty": 2.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Criminal Justice"
+    },
+    {
+      "id": "VGVhY2hlci0yNzYxNzQx",
+      "firstName": "Elizabeth",
+      "lastName": "Forsythe",
+      "avgRating": 4.0,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": 50,
+      "numRatings": 2,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0yNTM1MTM0",
+      "firstName": "Elizabeth",
+      "lastName": "Canning",
+      "avgRating": 4.3,
+      "avgDifficulty": 2.6,
+      "wouldTakeAgainPercent": 81,
+      "numRatings": 16,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci0xNTcxMjA2",
+      "firstName": "Elizabeth",
+      "lastName": "Fussell",
+      "avgRating": 3.5,
+      "avgDifficulty": 2.3,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 4,
+      "department": "Sociology"
+    },
+    {
+      "id": "VGVhY2hlci0xMzc2MjUw",
+      "firstName": "Elizabeth",
+      "lastName": "Kimball",
+      "avgRating": 4.0,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "Political Science"
+    },
+    {
+      "id": "VGVhY2hlci0yNzAzNjk0",
+      "firstName": "Elizabeth",
+      "lastName": "Gilchrist",
+      "avgRating": 0.0,
+      "avgDifficulty": 0.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 0,
+      "department": "Mathematics"
+    },
+    {
+      "id": "VGVhY2hlci0zNTgyNTU=",
+      "firstName": "Elizabeth",
+      "lastName": "Siler",
+      "avgRating": 2.2,
+      "avgDifficulty": 4.1,
+      "wouldTakeAgainPercent": 15,
+      "numRatings": 33,
+      "department": "English"
+    },
+    {
+      "id": "VGVhY2hlci0xNzE2MTE5",
+      "firstName": "Elizabeth",
+      "lastName": "Edwards",
+      "avgRating": 4.0,
+      "avgDifficulty": 3.0,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 1,
+      "department": "English"
+    }
+  ]
+}

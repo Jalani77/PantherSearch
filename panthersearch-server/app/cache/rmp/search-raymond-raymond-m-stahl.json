@@ -1,0 +1,46 @@
+{
+  "query": "Raymond (Raymond) M. Stahl",
+  "cachedAt": "2026-03-18T21:31:39.210013Z",
+  "results": [
+    {
+      "id": "VGVhY2hlci0xOTM1NzI5",
+      "firstName": "Raymond",
+      "lastName": "Quock",
+      "avgRating": 4.1,
+      "avgDifficulty": 3.8,
+      "wouldTakeAgainPercent": 80,
+      "numRatings": 27,
+      "department": "Psychology"
+    },
+    {
+      "id": "VGVhY2hlci01MDU3MDY=",
+      "firstName": "Raymond",
+      "lastName": "Jussaume",
+      "avgRating": 4.4,
+      "avgDifficulty": 3.4,
+      "wouldTakeAgainPercent": -1,
+      "numRatings": 7,
+      "department": "Sociology"
+    },
+    {
+      "id": "VGVhY2hlci0yOTgzOTAw",
+      "firstName": "Raymond",
+      "lastName": "Evans",
+      "avgRating": 1.0,
+      "avgDifficulty": 4.0,
+      "wouldTakeAgainPercent": 0,
+      "numRatings": 1,
+      "department": "Environmental Science"
+    },
+    {
+      "id": "VGVhY2hlci0xODUzNTY=",
+      "firstName": "Raymond",
+      "lastName": "Sun",
+      "avgRating": 4.4,
+      "avgDifficulty": 3.3,
+      "wouldTakeAgainPercent": 86,
+      "numRatings": 36,
+      "department": "History"
+    }
+  ]
+}
